@@ -1,0 +1,38 @@
+<books>
+    <book pages="300">
+        <title>Microsoft SQL Server 2008 R2 Master Data Services</title>
+        <category>Information Technology</category>
+        <authors>
+            <author>Jeremy Kashel</author>
+            <author>Tim Kent</author>
+            <author>Martyn Bullerwell</author>
+        </authors>
+        <reviews>
+            <review>If you're looking for an excellent book on the new Master Data Services component of SQL Server 2008 R2, definitely check this one out!  To be released in June 2011 by Packt Publishing!</review>
+        </reviews>
+    </book>
+    <book pages="832">
+        <title>Inside Microsoft SQL Server 2008: T-SQL Querying</title>
+        <category>Information Technology</category>
+        <authors>
+      <author>Itzik Ben-gan</author>
+      <author>Lubor Kollar</author>
+      <author>Dejan Sarka</author>
+      <author>Steve Kass</author>
+        </authors>
+        <reviews>
+            <review>Every "Inside SQL Server" book can be recommended, especially when written by Itzik!</review>
+        </reviews>
+    </book>
+    <book pages="1137">
+        <title>The Lord of the Rings</title>
+        <category>Fantasy</category>
+        <authors>
+            <author>J.R.R. Tolkien</author>
+        </authors>
+        <reviews>
+            <review>Like fantasy?  What are you waiting for then?  It's a classic!</review>
+            <review>If you liked the movie, you'll love the book.</review>
+        </reviews>
+    </book>
+</books>

@@ -1,0 +1,1017 @@
+CompanyName,Country,CustomerID,OrderID,OrderDate,año,mes,ProductName,UnitPrice,Quantity,parcial
+Vins et alcools Chevalier,France,VINET,10248,1996-07-04 00:00:00,1996,7,Queso Cabrales,14,12,168
+Vins et alcools Chevalier,France,VINET,10248,1996-07-04 00:00:00,1996,7,Singaporean Hokkien Fried Mee,9,8,10,98
+Vins et alcools Chevalier,France,VINET,10248,1996-07-04 00:00:00,1996,7,Mozzarella di Giovanni,34,8,5,174
+Toms Spezialit?n,Germany,TOMSP,10249,1996-07-05 00:00:00,1996,7,Tofu,18,6,9,167,4
+Toms Spezialit?n,Germany,TOMSP,10249,1996-07-05 00:00:00,1996,7,Manjimup Dried Apples,42,4,40,1696
+Victuailles en stock,France,VICTE,10251,1996-07-08 00:00:00,1996,7,Gustaf's Kn?ebröd,16,8,6,100,8
+Victuailles en stock,France,VICTE,10251,1996-07-08 00:00:00,1996,7,Ravioli Angelo,15,6,15,234
+Victuailles en stock,France,VICTE,10251,1996-07-08 00:00:00,1996,7,Louisiana Fiery Hot Pepper Sauce,16,8,20,336
+Supr?s d?ces,Belgium,SUPRD,10252,1996-07-09 00:00:00,1996,7,Sir Rodney's Marmalade,64,8,40,2592
+Supr?s d?ces,Belgium,SUPRD,10252,1996-07-09 00:00:00,1996,7,Geitost,2,25,50
+Supr?s d?ces,Belgium,SUPRD,10252,1996-07-09 00:00:00,1996,7,Camembert Pierrot,27,2,40,1088
+Chop-suey Chinese,Switzerland,CHOPS,10254,1996-07-11 00:00:00,1996,7,Guaran?ant?ica,3,6,15,54
+Chop-suey Chinese,Switzerland,CHOPS,10254,1996-07-11 00:00:00,1996,7,P? chinois,19,2,21,403,2
+Chop-suey Chinese,Switzerland,CHOPS,10254,1996-07-11 00:00:00,1996,7,Longlife Tofu,8,21,168
+Richter Supermarkt,Switzerland,RICSU,10255,1996-07-12 00:00:00,1996,7,Chang,15,2,20,304
+Richter Supermarkt,Switzerland,RICSU,10255,1996-07-12 00:00:00,1996,7,Pavlova,13,9,35,486,5
+Richter Supermarkt,Switzerland,RICSU,10255,1996-07-12 00:00:00,1996,7,Inlagd Sill,15,2,25,380
+Richter Supermarkt,Switzerland,RICSU,10255,1996-07-12 00:00:00,1996,7,Raclette Courdavault,44,30,1320
+Wellington Importadora,Brazil,WELLI,10256,1996-07-15 00:00:00,1996,7,Perth Pasties,26,2,15,393
+Wellington Importadora,Brazil,WELLI,10256,1996-07-15 00:00:00,1996,7,Original Frankfurter grüne So?,10,4,12,124,8
+Ernst Handel,Austria,ERNSH,10258,1996-07-17 00:00:00,1996,7,Chang,15,2,50,760
+Ernst Handel,Austria,ERNSH,10258,1996-07-17 00:00:00,1996,7,Chef Anton's Gumbo Mix,17,65,1105
+Ernst Handel,Austria,ERNSH,10258,1996-07-17 00:00:00,1996,7,Mascarpone Fabioli,25,6,6,153,6
+Centro comercial Moctezuma,Mexico,CENTC,10259,1996-07-18 00:00:00,1996,7,Sir Rodney's Scones,8,10,80
+Centro comercial Moctezuma,Mexico,CENTC,10259,1996-07-18 00:00:00,1996,7,Gravad lax,20,8,1,20,8
+Que Del?a,Brazil,QUEDE,10261,1996-07-19 00:00:00,1996,7,Sir Rodney's Scones,8,20,160
+Que Del?a,Brazil,QUEDE,10261,1996-07-19 00:00:00,1996,7,Steeleye Stout,14,4,20,288
+Rattlesnake Canyon Grocery,USA,RATTC,10262,1996-07-22 00:00:00,1996,7,Chef Anton's Gumbo Mix,17,12,204
+Rattlesnake Canyon Grocery,USA,RATTC,10262,1996-07-22 00:00:00,1996,7,Uncle Bob's Organic Dried Pears,24,15,360
+Rattlesnake Canyon Grocery,USA,RATTC,10262,1996-07-22 00:00:00,1996,7,Gnocchi di nonna Alice,30,4,2,60,8
+Ernst Handel,Austria,ERNSH,10263,1996-07-23 00:00:00,1996,7,Pavlova,13,9,60,834
+Ernst Handel,Austria,ERNSH,10263,1996-07-23 00:00:00,1996,7,Guaran?ant?ica,3,6,28,100,8
+Ernst Handel,Austria,ERNSH,10263,1996-07-23 00:00:00,1996,7,Nord-Ost Matjeshering,20,7,60,1242
+Ernst Handel,Austria,ERNSH,10263,1996-07-23 00:00:00,1996,7,Longlife Tofu,8,36,288
+Wartian Herkku,Finland,WARTH,10266,1996-07-26 00:00:00,1996,7,Queso Manchego La Pastora,30,4,12,364,8
+White Clover Markets,USA,WHITC,10269,1996-07-31 00:00:00,1996,7,Geitost,2,60,120
+White Clover Markets,USA,WHITC,10269,1996-07-31 00:00:00,1996,7,Mozzarella di Giovanni,27,8,20,556
+Wartian Herkku,Finland,WARTH,10270,1996-08-01 00:00:00,1996,8,Inlagd Sill,15,2,30,456
+Wartian Herkku,Finland,WARTH,10270,1996-08-01 00:00:00,1996,8,Ipoh Coffee,36,8,25,920
+Split Rail Beer & Ale,USA,SPLIR,10271,1996-08-01 00:00:00,1996,8,Geitost,2,24,48
+Rattlesnake Canyon Grocery,USA,RATTC,10272,1996-08-02 00:00:00,1996,8,Sir Rodney's Marmalade,64,8,6,388,8
+Rattlesnake Canyon Grocery,USA,RATTC,10272,1996-08-02 00:00:00,1996,8,Gorgonzola Telino,10,40,400
+Rattlesnake Canyon Grocery,USA,RATTC,10272,1996-08-02 00:00:00,1996,8,Mozzarella di Giovanni,27,8,24,667,2
+QUICK-Stop,Germany,QUICK,10273,1996-08-05 00:00:00,1996,8,Ikura,24,8,24,595,2
+QUICK-Stop,Germany,QUICK,10273,1996-08-05 00:00:00,1996,8,Gorgonzola Telino,10,15,150
+QUICK-Stop,Germany,QUICK,10273,1996-08-05 00:00:00,1996,8,Geitost,2,20,40
+QUICK-Stop,Germany,QUICK,10273,1996-08-05 00:00:00,1996,8,Boston Crab Meat,14,7,60,882
+QUICK-Stop,Germany,QUICK,10273,1996-08-05 00:00:00,1996,8,Lakkalikööri,14,4,33,475,2
+Vins et alcools Chevalier,France,VINET,10274,1996-08-06 00:00:00,1996,8,Flotemysost,17,2,20,344
+Vins et alcools Chevalier,France,VINET,10274,1996-08-06 00:00:00,1996,8,Mozzarella di Giovanni,27,8,7,194,6
+Tortuga Restaurante,Mexico,TORTU,10276,1996-08-08 00:00:00,1996,8,Ikura,24,8,15,372
+Tortuga Restaurante,Mexico,TORTU,10276,1996-08-08 00:00:00,1996,8,Konbu,4,8,10,48
+Victuailles en stock,France,VICTE,10334,1996-10-21 00:00:00,1996,10,Filo Mix,5,6,8,44,8
+Victuailles en stock,France,VICTE,10334,1996-10-21 00:00:00,1996,10,Scottish Longbreads,10,10,100
+B's Beverages,UK,BSBEV,10335,1996-10-22 00:00:00,1996,10,Chang,15,2,7,106,4
+B's Beverages,UK,BSBEV,10335,1996-10-22 00:00:00,1996,10,Gorgonzola Telino,10,25,250
+B's Beverages,UK,BSBEV,10335,1996-10-22 00:00:00,1996,10,Mascarpone Fabioli,25,6,6,153,6
+B's Beverages,UK,BSBEV,10335,1996-10-22 00:00:00,1996,10,Manjimup Dried Apples,42,4,48,2035,2
+Simons bistro,Denmark,SIMOB,10341,1996-10-29 00:00:00,1996,10,Geitost,2,8,16
+Simons bistro,Denmark,SIMOB,10341,1996-10-29 00:00:00,1996,10,Raclette Courdavault,44,9,396
+White Clover Markets,USA,WHITC,10344,1996-11-01 00:00:00,1996,11,Chef Anton's Cajun Seasoning,17,6,35,616
+White Clover Markets,USA,WHITC,10344,1996-11-01 00:00:00,1996,11,Northwoods Cranberry Sauce,32,70,2240
+QUICK-Stop,Germany,QUICK,10345,1996-11-04 00:00:00,1996,11,Northwoods Cranberry Sauce,32,70,2240
+QUICK-Stop,Germany,QUICK,10345,1996-11-04 00:00:00,1996,11,Teatime Chocolate Biscuits,7,3,80,584
+QUICK-Stop,Germany,QUICK,10345,1996-11-04 00:00:00,1996,11,Singaporean Hokkien Fried Mee,11,2,9,100,8
+Rattlesnake Canyon Grocery,USA,RATTC,10346,1996-11-05 00:00:00,1996,11,Alice Mutton,31,2,36,1123,2
+Rattlesnake Canyon Grocery,USA,RATTC,10346,1996-11-05 00:00:00,1996,11,Gnocchi di nonna Alice,30,4,20,608
+Die Wandernde Kuh,Germany,WANDK,10348,1996-11-07 00:00:00,1996,11,Chai,14,4,15,216
+Die Wandernde Kuh,Germany,WANDK,10348,1996-11-07 00:00:00,1996,11,Tunnbröd,7,2,25,180
+Split Rail Beer & Ale,USA,SPLIR,10349,1996-11-08 00:00:00,1996,11,Tourti?,5,9,24,141,6
+Ernst Handel,Austria,ERNSH,10351,1996-11-11 00:00:00,1996,11,C??de Blaye,210,8,20,4216
+Ernst Handel,Austria,ERNSH,10351,1996-11-11 00:00:00,1996,11,Jack's New England Clam Chowder,7,7,13,100,1
+Ernst Handel,Austria,ERNSH,10351,1996-11-11 00:00:00,1996,11,Gula Malacca,15,5,77,1193,5
+Ernst Handel,Austria,ERNSH,10351,1996-11-11 00:00:00,1996,11,Louisiana Fiery Hot Pepper Sauce,16,8,10,168
+Die Wandernde Kuh,Germany,WANDK,10356,1996-11-18 00:00:00,1996,11,Gorgonzola Telino,10,30,300
+Die Wandernde Kuh,Germany,WANDK,10356,1996-11-18 00:00:00,1996,11,P? chinois,19,2,12,230,4
+Die Wandernde Kuh,Germany,WANDK,10356,1996-11-18 00:00:00,1996,11,Gudbrandsdalsost,28,8,20,576
+Seven Seas Imports,UK,SEVES,10359,1996-11-21 00:00:00,1996,11,Pavlova,13,9,56,778,4
+Seven Seas Imports,UK,SEVES,10359,1996-11-21 00:00:00,1996,11,Gorgonzola Telino,10,70,700
+Seven Seas Imports,UK,SEVES,10359,1996-11-21 00:00:00,1996,11,Camembert Pierrot,27,2,80,2176
+QUICK-Stop,Germany,QUICK,10361,1996-11-22 00:00:00,1996,11,Chartreuse verte,14,4,54,777,6
+QUICK-Stop,Germany,QUICK,10361,1996-11-22 00:00:00,1996,11,Camembert Pierrot,27,2,55,1496
+Drachenblut Delikatessen,Germany,DRACD,10363,1996-11-26 00:00:00,1996,11,Gorgonzola Telino,10,20,200
+Drachenblut Delikatessen,Germany,DRACD,10363,1996-11-26 00:00:00,1996,11,Rhönbr?Klosterbier,6,2,12,74,4
+Drachenblut Delikatessen,Germany,DRACD,10363,1996-11-26 00:00:00,1996,11,Lakkalikööri,14,4,12,172,8
+Eastern Connection,UK,EASTC,10364,1996-11-26 00:00:00,1996,11,Gudbrandsdalsost,28,8,30,864
+Eastern Connection,UK,EASTC,10364,1996-11-26 00:00:00,1996,11,Flotemysost,17,2,5,86
+Vaffeljernet,Denmark,VAFFE,10367,1996-11-28 00:00:00,1996,11,Sasquatch Ale,11,2,36,403,2
+Vaffeljernet,Denmark,VAFFE,10367,1996-11-28 00:00:00,1996,11,Tourti?,5,9,18,106,2
+Vaffeljernet,Denmark,VAFFE,10367,1996-11-28 00:00:00,1996,11,Louisiana Fiery Hot Pepper Sauce,16,8,15,252
+Vaffeljernet,Denmark,VAFFE,10367,1996-11-28 00:00:00,1996,11,Original Frankfurter grüne So?,10,4,7,72,8
+Ernst Handel,Austria,ERNSH,10368,1996-11-29 00:00:00,1996,11,Sir Rodney's Scones,8,5,40
+Ernst Handel,Austria,ERNSH,10368,1996-11-29 00:00:00,1996,11,Rössle Sauerkraut,36,4,13,473,2
+Ernst Handel,Austria,ERNSH,10368,1996-11-29 00:00:00,1996,11,Ravioli Angelo,15,6,25,390
+Ernst Handel,Austria,ERNSH,10368,1996-11-29 00:00:00,1996,11,Wimmers gute Semmelknödel,26,6,35,931
+Split Rail Beer & Ale,USA,SPLIR,10369,1996-12-02 00:00:00,1996,12,Thüringer Rostbratwurst,99,20,1980
+Split Rail Beer & Ale,USA,SPLIR,10369,1996-12-02 00:00:00,1996,12,Gnocchi di nonna Alice,30,4,18,547,2
+Chop-suey Chinese,Switzerland,CHOPS,10370,1996-12-03 00:00:00,1996,12,Chai,14,4,15,216
+Chop-suey Chinese,Switzerland,CHOPS,10370,1996-12-03 00:00:00,1996,12,Wimmers gute Semmelknödel,26,6,30,798
+Chop-suey Chinese,Switzerland,CHOPS,10370,1996-12-03 00:00:00,1996,12,Longlife Tofu,8,20,160
+Queen Cozinha,Brazil,QUEEN,10372,1996-12-04 00:00:00,1996,12,Sir Rodney's Marmalade,64,8,12,777,6
+Queen Cozinha,Brazil,QUEEN,10372,1996-12-04 00:00:00,1996,12,C??de Blaye,210,8,40,8432
+Queen Cozinha,Brazil,QUEEN,10372,1996-12-04 00:00:00,1996,12,Camembert Pierrot,27,2,70,1904
+Queen Cozinha,Brazil,QUEEN,10372,1996-12-04 00:00:00,1996,12,Mozzarella di Giovanni,27,8,42,1167,6
+Wolski  Zajazd,Poland,WOLZA,10374,1996-12-05 00:00:00,1996,12,Gorgonzola Telino,10,30,300
+Wolski  Zajazd,Poland,WOLZA,10374,1996-12-05 00:00:00,1996,12,Escargots de Bourgogne,10,6,15,159
+Seven Seas Imports,UK,SEVES,10377,1996-12-09 00:00:00,1996,12,Rössle Sauerkraut,36,4,20,728
+Seven Seas Imports,UK,SEVES,10377,1996-12-09 00:00:00,1996,12,Chartreuse verte,14,4,20,288
+Que Del?a,Brazil,QUEDE,10379,1996-12-11 00:00:00,1996,12,Jack's New England Clam Chowder,7,7,8,61,6
+Que Del?a,Brazil,QUEDE,10379,1996-12-11 00:00:00,1996,12,Vegie-spread,35,1,16,561,6
+Que Del?a,Brazil,QUEDE,10379,1996-12-11 00:00:00,1996,12,Louisiana Fiery Hot Pepper Sauce,16,8,20,336
+Ernst Handel,Austria,ERNSH,10382,1996-12-13 00:00:00,1996,12,Chef Anton's Gumbo Mix,17,32,544
+Ernst Handel,Austria,ERNSH,10382,1996-12-13 00:00:00,1996,12,Carnarvon Tigers,50,9,450
+Ernst Handel,Austria,ERNSH,10382,1996-12-13 00:00:00,1996,12,Thüringer Rostbratwurst,99,14,1386
+Ernst Handel,Austria,ERNSH,10382,1996-12-13 00:00:00,1996,12,Geitost,2,60,120
+Ernst Handel,Austria,ERNSH,10382,1996-12-13 00:00:00,1996,12,Longlife Tofu,8,50,400
+Sant?ourmet,Norway,SANTG,10387,1996-12-18 00:00:00,1996,12,Guaran?ant?ica,3,6,15,54
+Sant?ourmet,Norway,SANTG,10387,1996-12-18 00:00:00,1996,12,Rössle Sauerkraut,36,4,6,218,4
+Sant?ourmet,Norway,SANTG,10387,1996-12-18 00:00:00,1996,12,Raclette Courdavault,44,12,528
+Sant?ourmet,Norway,SANTG,10387,1996-12-18 00:00:00,1996,12,Flotemysost,17,2,15,258
+Seven Seas Imports,UK,SEVES,10388,1996-12-19 00:00:00,1996,12,Rogede sild,7,6,15,114
+Seven Seas Imports,UK,SEVES,10388,1996-12-19 00:00:00,1996,12,Filo Mix,5,6,20,112
+Seven Seas Imports,UK,SEVES,10388,1996-12-19 00:00:00,1996,12,Perth Pasties,26,2,40,1048
+Ernst Handel,Austria,ERNSH,10390,1996-12-23 00:00:00,1996,12,Gorgonzola Telino,10,60,600
+Ernst Handel,Austria,ERNSH,10390,1996-12-23 00:00:00,1996,12,Steeleye Stout,14,4,40,576
+Ernst Handel,Austria,ERNSH,10390,1996-12-23 00:00:00,1996,12,Spegesild,9,6,45,432
+Ernst Handel,Austria,ERNSH,10390,1996-12-23 00:00:00,1996,12,Mozzarella di Giovanni,27,8,24,667,2
+Drachenblut Delikatessen,Germany,DRACD,10391,1996-12-23 00:00:00,1996,12,Konbu,4,8,18,86,4
+Save-a-lot Markets,USA,SAVEA,10393,1996-12-25 00:00:00,1996,12,Chang,15,2,25,380
+Save-a-lot Markets,USA,SAVEA,10393,1996-12-25 00:00:00,1996,12,Tofu,18,6,42,781,2
+Save-a-lot Markets,USA,SAVEA,10393,1996-12-25 00:00:00,1996,12,NuNuCa Nu?Nougat-Creme,11,2,7,78,4
+Save-a-lot Markets,USA,SAVEA,10393,1996-12-25 00:00:00,1996,12,Gumb?Gummib?hen,24,9,70,1743
+Save-a-lot Markets,USA,SAVEA,10393,1996-12-25 00:00:00,1996,12,Gorgonzola Telino,10,32,320
+Save-a-lot Markets,USA,SAVEA,10398,1996-12-30 00:00:00,1996,12,Steeleye Stout,14,4,30,432
+Save-a-lot Markets,USA,SAVEA,10398,1996-12-30 00:00:00,1996,12,P? chinois,19,2,120,2304
+Vaffeljernet,Denmark,VAFFE,10399,1996-12-31 00:00:00,1996,12,Scottish Longbreads,10,60,600
+Vaffeljernet,Denmark,VAFFE,10399,1996-12-31 00:00:00,1996,12,Flotemysost,17,2,30,516
+Vaffeljernet,Denmark,VAFFE,10399,1996-12-31 00:00:00,1996,12,Lakkalikööri,14,4,35,504
+Vaffeljernet,Denmark,VAFFE,10399,1996-12-31 00:00:00,1996,12,Original Frankfurter grüne So?,10,4,14,145,6
+Eastern Connection,UK,EASTC,10400,1997-01-01 00:00:00,1997,1,Thüringer Rostbratwurst,99,21,2079
+Eastern Connection,UK,EASTC,10400,1997-01-01 00:00:00,1997,1,Steeleye Stout,14,4,35,504
+Eastern Connection,UK,EASTC,10400,1997-01-01 00:00:00,1997,1,Maxilaku,16,30,480
+Rattlesnake Canyon Grocery,USA,RATTC,10401,1997-01-01 00:00:00,1997,1,Nord-Ost Matjeshering,20,7,18,372,6
+Rattlesnake Canyon Grocery,USA,RATTC,10401,1997-01-01 00:00:00,1997,1,Gnocchi di nonna Alice,30,4,70,2128
+Rattlesnake Canyon Grocery,USA,RATTC,10401,1997-01-01 00:00:00,1997,1,Louisiana Fiery Hot Pepper Sauce,16,8,20,336
+Rattlesnake Canyon Grocery,USA,RATTC,10401,1997-01-01 00:00:00,1997,1,Flotemysost,17,2,60,1032
+Ernst Handel,Austria,ERNSH,10402,1997-01-02 00:00:00,1997,1,Tunnbröd,7,2,60,432
+Ernst Handel,Austria,ERNSH,10402,1997-01-02 00:00:00,1997,1,Vegie-spread,35,1,65,2281,5
+Ernst Handel,Austria,ERNSH,10403,1997-01-03 00:00:00,1997,1,Pavlova,13,9,21,291,9
+Ernst Handel,Austria,ERNSH,10403,1997-01-03 00:00:00,1997,1,Chocolade,10,2,70,714
+Queen Cozinha,Brazil,QUEEN,10406,1997-01-07 00:00:00,1997,1,Chai,14,4,10,144
+Queen Cozinha,Brazil,QUEEN,10406,1997-01-07 00:00:00,1997,1,Sir Rodney's Scones,8,30,240
+Queen Cozinha,Brazil,QUEEN,10406,1997-01-07 00:00:00,1997,1,Rössle Sauerkraut,36,4,42,1528,8
+Queen Cozinha,Brazil,QUEEN,10406,1997-01-07 00:00:00,1997,1,Inlagd Sill,15,2,5,76
+Queen Cozinha,Brazil,QUEEN,10406,1997-01-07 00:00:00,1997,1,Boston Crab Meat,14,7,2,29,4
+Wartian Herkku,Finland,WARTH,10412,1997-01-13 00:00:00,1997,1,Tofu,18,6,20,372
+Wartian Herkku,Finland,WARTH,10416,1997-01-16 00:00:00,1997,1,Teatime Chocolate Biscuits,7,3,20,146
+Wartian Herkku,Finland,WARTH,10416,1997-01-16 00:00:00,1997,1,Perth Pasties,26,2,10,262
+Wartian Herkku,Finland,WARTH,10416,1997-01-16 00:00:00,1997,1,Ravioli Angelo,15,6,20,312
+Simons bistro,Denmark,SIMOB,10417,1997-01-16 00:00:00,1997,1,C??de Blaye,210,8,50,10540
+Simons bistro,Denmark,SIMOB,10417,1997-01-16 00:00:00,1997,1,Spegesild,9,6,2,19,2
+Simons bistro,Denmark,SIMOB,10417,1997-01-16 00:00:00,1997,1,Scottish Longbreads,10,36,360
+Simons bistro,Denmark,SIMOB,10417,1997-01-16 00:00:00,1997,1,Original Frankfurter grüne So?,10,4,35,364
+QUICK-Stop,Germany,QUICK,10418,1997-01-17 00:00:00,1997,1,Chang,15,2,60,912
+QUICK-Stop,Germany,QUICK,10418,1997-01-17 00:00:00,1997,1,Zaanse koeken,7,6,55,418
+QUICK-Stop,Germany,QUICK,10418,1997-01-17 00:00:00,1997,1,Sirop d'?ble,22,8,16,364,8
+QUICK-Stop,Germany,QUICK,10418,1997-01-17 00:00:00,1997,1,Longlife Tofu,8,15,120
+Richter Supermarkt,Switzerland,RICSU,10419,1997-01-20 00:00:00,1997,1,Camembert Pierrot,27,2,60,1632
+Richter Supermarkt,Switzerland,RICSU,10419,1997-01-20 00:00:00,1997,1,Gudbrandsdalsost,28,8,20,576
+Wellington Importadora,Brazil,WELLI,10420,1997-01-21 00:00:00,1997,1,Mishi Kobe Niku,77,6,20,1552
+Wellington Importadora,Brazil,WELLI,10420,1997-01-21 00:00:00,1997,1,Konbu,4,8,2,9,6
+Wellington Importadora,Brazil,WELLI,10420,1997-01-21 00:00:00,1997,1,Outback Lager,12,8,96
+Wellington Importadora,Brazil,WELLI,10420,1997-01-21 00:00:00,1997,1,Röd Kaviar,12,20,240
+Que Del?a,Brazil,QUEDE,10421,1997-01-21 00:00:00,1997,1,Teatime Chocolate Biscuits,7,3,4,29,2
+Que Del?a,Brazil,QUEDE,10421,1997-01-21 00:00:00,1997,1,Gumb?Gummib?hen,24,9,30,747
+Que Del?a,Brazil,QUEDE,10421,1997-01-21 00:00:00,1997,1,Perth Pasties,26,2,15,393
+Que Del?a,Brazil,QUEDE,10421,1997-01-21 00:00:00,1997,1,Original Frankfurter grüne So?,10,4,10,104
+Consolidated Holdings,UK,CONSH,10435,1997-02-04 00:00:00,1997,2,Chang,15,2,10,152
+Consolidated Holdings,UK,CONSH,10435,1997-02-04 00:00:00,1997,2,Gustaf's Kn?ebröd,16,8,12,201,6
+Consolidated Holdings,UK,CONSH,10435,1997-02-04 00:00:00,1997,2,Mozzarella di Giovanni,27,8,10,278
+Wartian Herkku,Finland,WARTH,10437,1997-02-05 00:00:00,1997,2,Perth Pasties,26,2,15,393
+Toms Spezialit?n,Germany,TOMSP,10438,1997-02-06 00:00:00,1997,2,Teatime Chocolate Biscuits,7,3,15,109,5
+Toms Spezialit?n,Germany,TOMSP,10438,1997-02-06 00:00:00,1997,2,Sasquatch Ale,11,2,20,224
+Toms Spezialit?n,Germany,TOMSP,10438,1997-02-06 00:00:00,1997,2,Ravioli Angelo,15,6,15,234
+Save-a-lot Markets,USA,SAVEA,10440,1997-02-10 00:00:00,1997,2,Chang,15,2,45,684
+Save-a-lot Markets,USA,SAVEA,10440,1997-02-10 00:00:00,1997,2,Pavlova,13,9,49,681,1
+Save-a-lot Markets,USA,SAVEA,10440,1997-02-10 00:00:00,1997,2,Thüringer Rostbratwurst,99,24,2376
+Save-a-lot Markets,USA,SAVEA,10440,1997-02-10 00:00:00,1997,2,Sirop d'?ble,22,8,90,2052
+Ernst Handel,Austria,ERNSH,10442,1997-02-11 00:00:00,1997,2,Queso Cabrales,16,8,30,504
+Ernst Handel,Austria,ERNSH,10442,1997-02-11 00:00:00,1997,2,Tourti?,5,9,80,472
+Ernst Handel,Austria,ERNSH,10442,1997-02-11 00:00:00,1997,2,Louisiana Hot Spiced Okra,13,6,60,816
+Reggiani Caseifici,Italy,REGGC,10443,1997-02-12 00:00:00,1997,2,Queso Cabrales,16,8,6,100,8
+Reggiani Caseifici,Italy,REGGC,10443,1997-02-12 00:00:00,1997,2,Rössle Sauerkraut,36,4,12,436,8
+Toms Spezialit?n,Germany,TOMSP,10446,1997-02-14 00:00:00,1997,2,Teatime Chocolate Biscuits,7,3,12,87,6
+Toms Spezialit?n,Germany,TOMSP,10446,1997-02-14 00:00:00,1997,2,Guaran?ant?ica,3,6,20,72
+Toms Spezialit?n,Germany,TOMSP,10446,1997-02-14 00:00:00,1997,2,Gorgonzola Telino,10,3,30
+Toms Spezialit?n,Germany,TOMSP,10446,1997-02-14 00:00:00,1997,2,Filo Mix,5,6,15,84
+Ricardo Adocicados,Brazil,RICAR,10447,1997-02-14 00:00:00,1997,2,Teatime Chocolate Biscuits,7,3,40,292
+Ricardo Adocicados,Brazil,RICAR,10447,1997-02-14 00:00:00,1997,2,Louisiana Fiery Hot Pepper Sauce,16,8,35,588
+Ricardo Adocicados,Brazil,RICAR,10447,1997-02-14 00:00:00,1997,2,Flotemysost,17,2,2,34,4
+Rancho grande,Argentina,RANCH,10448,1997-02-17 00:00:00,1997,2,Gumb?Gummib?hen,24,9,6,149,4
+Rancho grande,Argentina,RANCH,10448,1997-02-17 00:00:00,1997,2,Boston Crab Meat,14,7,20,294
+Victuailles en stock,France,VICTE,10450,1997-02-19 00:00:00,1997,2,Ikura,24,8,20,496
+Victuailles en stock,France,VICTE,10450,1997-02-19 00:00:00,1997,2,Tourti?,5,9,6,35,4
+QUICK-Stop,Germany,QUICK,10451,1997-02-19 00:00:00,1997,2,P? chinois,19,2,120,2304
+QUICK-Stop,Germany,QUICK,10451,1997-02-19 00:00:00,1997,2,Wimmers gute Semmelknödel,26,6,35,931
+QUICK-Stop,Germany,QUICK,10451,1997-02-19 00:00:00,1997,2,Louisiana Fiery Hot Pepper Sauce,16,8,28,470,4
+QUICK-Stop,Germany,QUICK,10451,1997-02-19 00:00:00,1997,2,Original Frankfurter grüne So?,10,4,55,572
+Save-a-lot Markets,USA,SAVEA,10452,1997-02-20 00:00:00,1997,2,Rössle Sauerkraut,36,4,15,546
+Save-a-lot Markets,USA,SAVEA,10452,1997-02-20 00:00:00,1997,2,Gula Malacca,15,5,100,1550
+Wartian Herkku,Finland,WARTH,10455,1997-02-24 00:00:00,1997,2,Chartreuse verte,14,4,20,288
+Wartian Herkku,Finland,WARTH,10455,1997-02-24 00:00:00,1997,2,Perth Pasties,26,2,50,1310
+Wartian Herkku,Finland,WARTH,10455,1997-02-24 00:00:00,1997,2,Sirop d'?ble,22,8,25,570
+Wartian Herkku,Finland,WARTH,10455,1997-02-24 00:00:00,1997,2,Flotemysost,17,2,30,516
+Supr?s d?ces,Belgium,SUPRD,10458,1997-02-26 00:00:00,1997,2,Gumb?Gummib?hen,24,9,30,747
+Supr?s d?ces,Belgium,SUPRD,10458,1997-02-26 00:00:00,1997,2,Rössle Sauerkraut,36,4,30,1092
+Supr?s d?ces,Belgium,SUPRD,10458,1997-02-26 00:00:00,1997,2,Ipoh Coffee,36,8,20,736
+Supr?s d?ces,Belgium,SUPRD,10458,1997-02-26 00:00:00,1997,2,Gnocchi di nonna Alice,30,4,15,456
+Supr?s d?ces,Belgium,SUPRD,10458,1997-02-26 00:00:00,1997,2,Flotemysost,17,2,50,860
+Victuailles en stock,France,VICTE,10459,1997-02-27 00:00:00,1997,2,Uncle Bob's Organic Dried Pears,24,16,384
+Victuailles en stock,France,VICTE,10459,1997-02-27 00:00:00,1997,2,Spegesild,9,6,20,192
+Victuailles en stock,France,VICTE,10459,1997-02-27 00:00:00,1997,2,Mozzarella di Giovanni,27,8,40,1112
+Consolidated Holdings,UK,CONSH,10462,1997-03-03 00:00:00,1997,3,Konbu,4,8,1,4,8
+Consolidated Holdings,UK,CONSH,10462,1997-03-03 00:00:00,1997,3,Tunnbröd,7,2,21,151,2
+Supr?s d?ces,Belgium,SUPRD,10463,1997-03-04 00:00:00,1997,3,Teatime Chocolate Biscuits,7,3,21,153,3
+Supr?s d?ces,Belgium,SUPRD,10463,1997-03-04 00:00:00,1997,3,Singaporean Hokkien Fried Mee,11,2,50,560
+Vaffeljernet,Denmark,VAFFE,10465,1997-03-05 00:00:00,1997,3,Guaran?ant?ica,3,6,25,90
+Vaffeljernet,Denmark,VAFFE,10465,1997-03-05 00:00:00,1997,3,Thüringer Rostbratwurst,99,18,1782
+Vaffeljernet,Denmark,VAFFE,10465,1997-03-05 00:00:00,1997,3,Boston Crab Meat,14,7,20,294
+Vaffeljernet,Denmark,VAFFE,10465,1997-03-05 00:00:00,1997,3,Rogede sild,7,6,30,228
+Vaffeljernet,Denmark,VAFFE,10465,1997-03-05 00:00:00,1997,3,Valkoinen suklaa,13,25,325
+Com?io Mineiro,Brazil,COMMI,10466,1997-03-06 00:00:00,1997,3,Queso Cabrales,16,8,10,168
+Com?io Mineiro,Brazil,COMMI,10466,1997-03-06 00:00:00,1997,3,Spegesild,9,6,5,48
+White Clover Markets,USA,WHITC,10469,1997-03-10 00:00:00,1997,3,Chang,15,2,40,608
+White Clover Markets,USA,WHITC,10469,1997-03-10 00:00:00,1997,3,Pavlova,13,9,35,486,5
+White Clover Markets,USA,WHITC,10469,1997-03-10 00:00:00,1997,3,Gula Malacca,15,5,2,31
+B's Beverages,UK,BSBEV,10471,1997-03-11 00:00:00,1997,3,Uncle Bob's Organic Dried Pears,24,30,720
+B's Beverages,UK,BSBEV,10471,1997-03-11 00:00:00,1997,3,Gnocchi di nonna Alice,30,4,20,608
+Seven Seas Imports,UK,SEVES,10472,1997-03-12 00:00:00,1997,3,Guaran?ant?ica,3,6,80,288
+Seven Seas Imports,UK,SEVES,10472,1997-03-12 00:00:00,1997,3,Manjimup Dried Apples,42,4,18,763,2
+Supr?s d?ces,Belgium,SUPRD,10475,1997-03-14 00:00:00,1997,3,Gorgonzola Telino,10,35,350
+Supr?s d?ces,Belgium,SUPRD,10475,1997-03-14 00:00:00,1997,3,Louisiana Hot Spiced Okra,13,6,60,816
+Supr?s d?ces,Belgium,SUPRD,10475,1997-03-14 00:00:00,1997,3,Lakkalikööri,14,4,42,604,8
+Victuailles en stock,France,VICTE,10478,1997-03-18 00:00:00,1997,3,Ikura,24,8,20,496
+Rattlesnake Canyon Grocery,USA,RATTC,10479,1997-03-19 00:00:00,1997,3,C??de Blaye,210,8,30,6324
+Rattlesnake Canyon Grocery,USA,RATTC,10479,1997-03-19 00:00:00,1997,3,Perth Pasties,26,2,28,733,6
+Rattlesnake Canyon Grocery,USA,RATTC,10479,1997-03-19 00:00:00,1997,3,Raclette Courdavault,44,60,2640
+Rattlesnake Canyon Grocery,USA,RATTC,10479,1997-03-19 00:00:00,1997,3,Wimmers gute Semmelknödel,26,6,30,798
+Ricardo Adocicados,Brazil,RICAR,10481,1997-03-20 00:00:00,1997,3,Maxilaku,16,24,384
+Ricardo Adocicados,Brazil,RICAR,10481,1997-03-20 00:00:00,1997,3,Camembert Pierrot,27,2,40,1088
+White Clover Markets,USA,WHITC,10483,1997-03-24 00:00:00,1997,3,Sasquatch Ale,11,2,35,392
+White Clover Markets,USA,WHITC,10483,1997-03-24 00:00:00,1997,3,Original Frankfurter grüne So?,10,4,30,312
+B's Beverages,UK,BSBEV,10484,1997-03-24 00:00:00,1997,3,Sir Rodney's Scones,8,14,112
+B's Beverages,UK,BSBEV,10484,1997-03-24 00:00:00,1997,3,Boston Crab Meat,14,7,10,147
+B's Beverages,UK,BSBEV,10484,1997-03-24 00:00:00,1997,3,Manjimup Dried Apples,42,4,3,127,2
+Queen Cozinha,Brazil,QUEEN,10487,1997-03-26 00:00:00,1997,3,Teatime Chocolate Biscuits,7,3,5,36,5
+Queen Cozinha,Brazil,QUEEN,10487,1997-03-26 00:00:00,1997,3,Gumb?Gummib?hen,24,9,30,747
+Queen Cozinha,Brazil,QUEEN,10487,1997-03-26 00:00:00,1997,3,Tourti?,5,9,24,141,6
+Com?io Mineiro,Brazil,COMMI,10494,1997-04-02 00:00:00,1997,4,Gnocchi di nonna Alice,30,4,30,912
+Tradi? Hipermercados,Brazil,TRADH,10496,1997-04-04 00:00:00,1997,4,Gorgonzola Telino,10,20,200
+White Clover Markets,USA,WHITC,10504,1997-04-11 00:00:00,1997,4,Chang,19,12,228
+White Clover Markets,USA,WHITC,10504,1997-04-11 00:00:00,1997,4,Sir Rodney's Scones,10,12,120
+White Clover Markets,USA,WHITC,10504,1997-04-11 00:00:00,1997,4,Perth Pasties,32,8,10,328
+White Clover Markets,USA,WHITC,10504,1997-04-11 00:00:00,1997,4,Sirop d'?ble,28,5,25,712,5
+Save-a-lot Markets,USA,SAVEA,10510,1997-04-18 00:00:00,1997,4,Thüringer Rostbratwurst,123,79,36,4456,44
+Save-a-lot Markets,USA,SAVEA,10510,1997-04-18 00:00:00,1997,4,Rhönbr?Klosterbier,7,75,36,279
+Die Wandernde Kuh,Germany,WANDK,10513,1997-04-22 00:00:00,1997,4,Sir Rodney's Scones,10,40,400
+Die Wandernde Kuh,Germany,WANDK,10513,1997-04-22 00:00:00,1997,4,Mascarpone Fabioli,32,50,1600
+Die Wandernde Kuh,Germany,WANDK,10513,1997-04-22 00:00:00,1997,4,Sirop d'?ble,28,5,15,427,5
+Ernst Handel,Austria,ERNSH,10514,1997-04-22 00:00:00,1997,4,Sir Rodney's Marmalade,81,39,3159
+Ernst Handel,Austria,ERNSH,10514,1997-04-22 00:00:00,1997,4,Rössle Sauerkraut,45,6,35,1596
+Ernst Handel,Austria,ERNSH,10514,1997-04-22 00:00:00,1997,4,Gnocchi di nonna Alice,38,70,2660
+Ernst Handel,Austria,ERNSH,10514,1997-04-22 00:00:00,1997,4,Louisiana Fiery Hot Pepper Sauce,21,05,39,820,95
+Ernst Handel,Austria,ERNSH,10514,1997-04-22 00:00:00,1997,4,Rhönbr?Klosterbier,7,75,50,387,5
+QUICK-Stop,Germany,QUICK,10515,1997-04-23 00:00:00,1997,4,Mishi Kobe Niku,97,16,1552
+QUICK-Stop,Germany,QUICK,10515,1997-04-23 00:00:00,1997,4,Pavlova,17,45,50,872,5
+QUICK-Stop,Germany,QUICK,10515,1997-04-23 00:00:00,1997,4,Schoggi Schokolade,43,9,120,5268
+QUICK-Stop,Germany,QUICK,10515,1997-04-23 00:00:00,1997,4,Geitost,2,5,16,40
+QUICK-Stop,Germany,QUICK,10515,1997-04-23 00:00:00,1997,4,Camembert Pierrot,34,84,2856
+Tortuga Restaurante,Mexico,TORTU,10518,1997-04-25 00:00:00,1997,4,Guaran?ant?ica,4,5,5,22,5
+Tortuga Restaurante,Mexico,TORTU,10518,1997-04-25 00:00:00,1997,4,C??de Blaye,263,5,15,3952,5
+Tortuga Restaurante,Mexico,TORTU,10518,1997-04-25 00:00:00,1997,4,Gula Malacca,19,45,9,175,05
+Chop-suey Chinese,Switzerland,CHOPS,10519,1997-04-28 00:00:00,1997,4,Ikura,31,16,496
+Chop-suey Chinese,Switzerland,CHOPS,10519,1997-04-28 00:00:00,1997,4,Gnocchi di nonna Alice,38,40,1520
+Chop-suey Chinese,Switzerland,CHOPS,10519,1997-04-28 00:00:00,1997,4,Camembert Pierrot,34,10,340
+Sant?ourmet,Norway,SANTG,10520,1997-04-29 00:00:00,1997,4,Guaran?ant?ica,4,5,8,36
+Sant?ourmet,Norway,SANTG,10520,1997-04-29 00:00:00,1997,4,Perth Pasties,32,8,5,164
+Cactus Comidas para llevar,Argentina,CACTU,10521,1997-04-29 00:00:00,1997,4,Steeleye Stout,18,3,54
+Cactus Comidas para llevar,Argentina,CACTU,10521,1997-04-29 00:00:00,1997,4,Jack's New England Clam Chowder,9,65,10,96,5
+Cactus Comidas para llevar,Argentina,CACTU,10521,1997-04-29 00:00:00,1997,4,Scottish Longbreads,12,5,6,75
+Seven Seas Imports,UK,SEVES,10523,1997-05-01 00:00:00,1997,5,Alice Mutton,39,25,975
+Seven Seas Imports,UK,SEVES,10523,1997-05-01 00:00:00,1997,5,Sir Rodney's Marmalade,81,15,1215
+Seven Seas Imports,UK,SEVES,10523,1997-05-01 00:00:00,1997,5,Gravad lax,26,18,468
+Seven Seas Imports,UK,SEVES,10523,1997-05-01 00:00:00,1997,5,Jack's New England Clam Chowder,9,65,6,57,9
+Wartian Herkku,Finland,WARTH,10526,1997-05-05 00:00:00,1997,5,Chai,18,8,144
+Wartian Herkku,Finland,WARTH,10526,1997-05-05 00:00:00,1997,5,Konbu,6,10,60
+Wartian Herkku,Finland,WARTH,10526,1997-05-05 00:00:00,1997,5,Gnocchi di nonna Alice,38,30,1140
+QUICK-Stop,Germany,QUICK,10527,1997-05-05 00:00:00,1997,5,Chef Anton's Cajun Seasoning,22,50,1100
+QUICK-Stop,Germany,QUICK,10527,1997-05-05 00:00:00,1997,5,Inlagd Sill,19,30,570
+Eastern Connection,UK,EASTC,10532,1997-05-09 00:00:00,1997,5,Nord-Ost Matjeshering,25,89,15,388,35
+Eastern Connection,UK,EASTC,10532,1997-05-09 00:00:00,1997,5,Louisiana Hot Spiced Okra,17,24,408
+Richter Supermarkt,Switzerland,RICSU,10537,1997-05-14 00:00:00,1997,5,Gorgonzola Telino,12,5,30,375
+Richter Supermarkt,Switzerland,RICSU,10537,1997-05-14 00:00:00,1997,5,Manjimup Dried Apples,53,6,318
+Richter Supermarkt,Switzerland,RICSU,10537,1997-05-14 00:00:00,1997,5,Escargots de Bourgogne,13,25,20,265
+Richter Supermarkt,Switzerland,RICSU,10537,1997-05-14 00:00:00,1997,5,Mozzarella di Giovanni,34,8,21,730,8
+Richter Supermarkt,Switzerland,RICSU,10537,1997-05-14 00:00:00,1997,5,Röd Kaviar,15,9,135
+B's Beverages,UK,BSBEV,10538,1997-05-15 00:00:00,1997,5,Outback Lager,15,7,105
+B's Beverages,UK,BSBEV,10538,1997-05-15 00:00:00,1997,5,Mozzarella di Giovanni,34,8,1,34,8
+B's Beverages,UK,BSBEV,10539,1997-05-16 00:00:00,1997,5,Konbu,6,8,48
+B's Beverages,UK,BSBEV,10539,1997-05-16 00:00:00,1997,5,Sir Rodney's Scones,10,15,150
+B's Beverages,UK,BSBEV,10539,1997-05-16 00:00:00,1997,5,Geitost,2,5,15,37,5
+B's Beverages,UK,BSBEV,10539,1997-05-16 00:00:00,1997,5,Maxilaku,20,6,120
+QUICK-Stop,Germany,QUICK,10540,1997-05-19 00:00:00,1997,5,Aniseed Syrup,10,60,600
+QUICK-Stop,Germany,QUICK,10540,1997-05-19 00:00:00,1997,5,Gumb?Gummib?hen,31,23,40,1249,2
+QUICK-Stop,Germany,QUICK,10540,1997-05-19 00:00:00,1997,5,C??de Blaye,263,5,30,7905
+QUICK-Stop,Germany,QUICK,10540,1997-05-19 00:00:00,1997,5,Scottish Longbreads,12,5,35,437,5
+Victuailles en stock,France,VICTE,10546,1997-05-23 00:00:00,1997,5,Uncle Bob's Organic Dried Pears,30,10,300
+Victuailles en stock,France,VICTE,10546,1997-05-23 00:00:00,1997,5,Steeleye Stout,18,30,540
+Victuailles en stock,France,VICTE,10546,1997-05-23 00:00:00,1997,5,Tarte au sucre,49,3,40,1972
+Seven Seas Imports,UK,SEVES,10547,1997-05-23 00:00:00,1997,5,Mascarpone Fabioli,32,24,768
+Seven Seas Imports,UK,SEVES,10547,1997-05-23 00:00:00,1997,5,Inlagd Sill,19,60,1140
+Toms Spezialit?n,Germany,TOMSP,10548,1997-05-26 00:00:00,1997,5,Sasquatch Ale,14,10,140
+Toms Spezialit?n,Germany,TOMSP,10548,1997-05-26 00:00:00,1997,5,Jack's New England Clam Chowder,9,65,14,135,1
+QUICK-Stop,Germany,QUICK,10549,1997-05-27 00:00:00,1997,5,Gorgonzola Telino,12,5,55,687,5
+QUICK-Stop,Germany,QUICK,10549,1997-05-27 00:00:00,1997,5,Rogede sild,9,5,100,950
+QUICK-Stop,Germany,QUICK,10549,1997-05-27 00:00:00,1997,5,Manjimup Dried Apples,53,48,2544
+Wartian Herkku,Finland,WARTH,10553,1997-05-30 00:00:00,1997,5,Queso Cabrales,21,15,315
+Wartian Herkku,Finland,WARTH,10553,1997-05-30 00:00:00,1997,5,Pavlova,17,45,14,244,3
+Wartian Herkku,Finland,WARTH,10553,1997-05-30 00:00:00,1997,5,Gustaf's Kn?ebröd,21,24,504
+Wartian Herkku,Finland,WARTH,10553,1997-05-30 00:00:00,1997,5,Gorgonzola Telino,12,5,30,375
+Wartian Herkku,Finland,WARTH,10553,1997-05-30 00:00:00,1997,5,Steeleye Stout,18,6,108
+Save-a-lot Markets,USA,SAVEA,10555,1997-06-02 00:00:00,1997,6,Tofu,23,25,30,697,5
+Save-a-lot Markets,USA,SAVEA,10555,1997-06-02 00:00:00,1997,6,Teatime Chocolate Biscuits,9,2,35,322
+Save-a-lot Markets,USA,SAVEA,10555,1997-06-02 00:00:00,1997,6,Guaran?ant?ica,4,5,18,81
+Save-a-lot Markets,USA,SAVEA,10555,1997-06-02 00:00:00,1997,6,Manjimup Dried Apples,53,20,1060
+Save-a-lot Markets,USA,SAVEA,10555,1997-06-02 00:00:00,1997,6,Gnocchi di nonna Alice,38,40,1520
+Simons bistro,Denmark,SIMOB,10556,1997-06-03 00:00:00,1997,6,Mozzarella di Giovanni,34,8,24,835,2
+Reggiani Caseifici,Italy,REGGC,10562,1997-06-09 00:00:00,1997,6,Geitost,2,5,20,50
+Reggiani Caseifici,Italy,REGGC,10562,1997-06-09 00:00:00,1997,6,Tarte au sucre,49,3,10,493
+Ricardo Adocicados,Brazil,RICAR,10563,1997-06-10 00:00:00,1997,6,Inlagd Sill,19,25,475
+Ricardo Adocicados,Brazil,RICAR,10563,1997-06-10 00:00:00,1997,6,Filo Mix,7,70,490
+Rattlesnake Canyon Grocery,USA,RATTC,10564,1997-06-10 00:00:00,1997,6,Alice Mutton,39,16,624
+Rattlesnake Canyon Grocery,USA,RATTC,10564,1997-06-10 00:00:00,1997,6,Gorgonzola Telino,12,5,6,75
+Rattlesnake Canyon Grocery,USA,RATTC,10564,1997-06-10 00:00:00,1997,6,P? chinois,24,25,600
+Rattlesnake Canyon Grocery,USA,RATTC,10569,1997-06-16 00:00:00,1997,6,Gorgonzola Telino,12,5,35,437,5
+Rattlesnake Canyon Grocery,USA,RATTC,10569,1997-06-16 00:00:00,1997,6,Lakkalikööri,18,30,540
+Ernst Handel,Austria,ERNSH,10571,1997-06-17 00:00:00,1997,6,Tofu,23,25,11,255,75
+Ernst Handel,Austria,ERNSH,10571,1997-06-17 00:00:00,1997,6,Singaporean Hokkien Fried Mee,14,28,392
+Trail's Head Gourmet Provisioners,USA,TRAIH,10574,1997-06-19 00:00:00,1997,6,Geitost,2,5,14,35
+Trail's Head Gourmet Provisioners,USA,TRAIH,10574,1997-06-19 00:00:00,1997,6,Boston Crab Meat,18,4,2,36,8
+Trail's Head Gourmet Provisioners,USA,TRAIH,10574,1997-06-19 00:00:00,1997,6,Tarte au sucre,49,3,10,493
+Trail's Head Gourmet Provisioners,USA,TRAIH,10574,1997-06-19 00:00:00,1997,6,Wimmers gute Semmelknödel,33,25,6,199,5
+Tortuga Restaurante,Mexico,TORTU,10576,1997-06-23 00:00:00,1997,6,Chai,18,10,180
+Tortuga Restaurante,Mexico,TORTU,10576,1997-06-23 00:00:00,1997,6,Gorgonzola Telino,12,5,20,250
+Tortuga Restaurante,Mexico,TORTU,10576,1997-06-23 00:00:00,1997,6,Gula Malacca,19,45,21,408,45
+Trail's Head Gourmet Provisioners,USA,TRAIH,10577,1997-06-23 00:00:00,1997,6,Chartreuse verte,18,10,180
+Trail's Head Gourmet Provisioners,USA,TRAIH,10577,1997-06-23 00:00:00,1997,6,Rhönbr?Klosterbier,7,75,20,155
+Trail's Head Gourmet Provisioners,USA,TRAIH,10577,1997-06-23 00:00:00,1997,6,Original Frankfurter grüne So?,13,18,234
+B's Beverages,UK,BSBEV,10578,1997-06-24 00:00:00,1997,6,Steeleye Stout,18,20,360
+B's Beverages,UK,BSBEV,10578,1997-06-24 00:00:00,1997,6,Ravioli Angelo,19,5,6,117
+Wartian Herkku,Finland,WARTH,10583,1997-06-30 00:00:00,1997,6,Thüringer Rostbratwurst,123,79,10,1237,9
+Wartian Herkku,Finland,WARTH,10583,1997-06-30 00:00:00,1997,6,Camembert Pierrot,34,24,816
+Wartian Herkku,Finland,WARTH,10583,1997-06-30 00:00:00,1997,6,Gudbrandsdalsost,36,10,360
+Wellington Importadora,Brazil,WELLI,10585,1997-07-01 00:00:00,1997,7,Zaanse koeken,9,5,15,142,5
+Reggiani Caseifici,Italy,REGGC,10586,1997-07-02 00:00:00,1997,7,Filo Mix,7,4,28
+Que Del?a,Brazil,QUEDE,10587,1997-07-02 00:00:00,1997,7,Gumb?Gummib?hen,31,23,6,187,38
+Que Del?a,Brazil,QUEDE,10587,1997-07-02 00:00:00,1997,7,Steeleye Stout,18,20,360
+Que Del?a,Brazil,QUEDE,10587,1997-07-02 00:00:00,1997,7,Original Frankfurter grüne So?,13,20,260
+QUICK-Stop,Germany,QUICK,10588,1997-07-03 00:00:00,1997,7,Carnarvon Tigers,62,5,40,2500
+QUICK-Stop,Germany,QUICK,10588,1997-07-03 00:00:00,1997,7,Singaporean Hokkien Fried Mee,14,100,1400
+Vaffeljernet,Denmark,VAFFE,10591,1997-07-07 00:00:00,1997,7,Aniseed Syrup,10,14,140
+Vaffeljernet,Denmark,VAFFE,10591,1997-07-07 00:00:00,1997,7,Uncle Bob's Organic Dried Pears,30,10,300
+Vaffeljernet,Denmark,VAFFE,10591,1997-07-07 00:00:00,1997,7,Tourti?,7,45,50,372,5
+Ernst Handel,Austria,ERNSH,10595,1997-07-10 00:00:00,1997,7,Steeleye Stout,18,30,540
+Ernst Handel,Austria,ERNSH,10595,1997-07-10 00:00:00,1997,7,Sirop d'?ble,28,5,120,3420
+Ernst Handel,Austria,ERNSH,10595,1997-07-10 00:00:00,1997,7,Gudbrandsdalsost,36,65,2340
+White Clover Markets,USA,WHITC,10596,1997-07-11 00:00:00,1997,7,Gnocchi di nonna Alice,38,5,190
+White Clover Markets,USA,WHITC,10596,1997-07-11 00:00:00,1997,7,Vegie-spread,43,9,24,1053,6
+White Clover Markets,USA,WHITC,10596,1997-07-11 00:00:00,1997,7,Rhönbr?Klosterbier,7,75,30,232,5
+Rattlesnake Canyon Grocery,USA,RATTC,10598,1997-07-14 00:00:00,1997,7,Schoggi Schokolade,43,9,50,2195
+Rattlesnake Canyon Grocery,USA,RATTC,10598,1997-07-14 00:00:00,1997,7,Flotemysost,21,5,9,193,5
+B's Beverages,UK,BSBEV,10599,1997-07-15 00:00:00,1997,7,Tarte au sucre,49,3,10,493
+Vaffeljernet,Denmark,VAFFE,10602,1997-07-17 00:00:00,1997,7,Original Frankfurter grüne So?,13,5,65
+Save-a-lot Markets,USA,SAVEA,10603,1997-07-18 00:00:00,1997,7,Gustaf's Kn?ebröd,21,48,1008
+Save-a-lot Markets,USA,SAVEA,10603,1997-07-18 00:00:00,1997,7,Maxilaku,20,25,500
+Tradi? Hipermercados,Brazil,TRADH,10606,1997-07-22 00:00:00,1997,7,Chef Anton's Cajun Seasoning,22,20,440
+Tradi? Hipermercados,Brazil,TRADH,10606,1997-07-22 00:00:00,1997,7,P? chinois,24,20,480
+Tradi? Hipermercados,Brazil,TRADH,10606,1997-07-22 00:00:00,1997,7,Tarte au sucre,49,3,10,493
+Save-a-lot Markets,USA,SAVEA,10607,1997-07-22 00:00:00,1997,7,Uncle Bob's Organic Dried Pears,30,45,1350
+Save-a-lot Markets,USA,SAVEA,10607,1997-07-22 00:00:00,1997,7,Alice Mutton,39,100,3900
+Save-a-lot Markets,USA,SAVEA,10607,1997-07-22 00:00:00,1997,7,Geitost,2,5,14,35
+Save-a-lot Markets,USA,SAVEA,10607,1997-07-22 00:00:00,1997,7,Boston Crab Meat,18,4,42,772,8
+Save-a-lot Markets,USA,SAVEA,10607,1997-07-22 00:00:00,1997,7,Mozzarella di Giovanni,34,8,12,417,6
+Toms Spezialit?n,Germany,TOMSP,10608,1997-07-23 00:00:00,1997,7,Gnocchi di nonna Alice,38,28,1064
+Du monde entier,France,DUMON,10609,1997-07-24 00:00:00,1997,7,Chai,18,3,54
+Du monde entier,France,DUMON,10609,1997-07-24 00:00:00,1997,7,Ikura,31,10,310
+Du monde entier,France,DUMON,10609,1997-07-24 00:00:00,1997,7,Sir Rodney's Scones,10,6,60
+Wolski  Zajazd,Poland,WOLZA,10611,1997-07-25 00:00:00,1997,7,Chai,18,6,108
+Wolski  Zajazd,Poland,WOLZA,10611,1997-07-25 00:00:00,1997,7,Chang,19,10,190
+Wolski  Zajazd,Poland,WOLZA,10611,1997-07-25 00:00:00,1997,7,Camembert Pierrot,34,15,510
+Save-a-lot Markets,USA,SAVEA,10612,1997-07-28 00:00:00,1997,7,Ikura,31,70,2170
+Save-a-lot Markets,USA,SAVEA,10612,1997-07-28 00:00:00,1997,7,Inlagd Sill,19,55,1045
+Save-a-lot Markets,USA,SAVEA,10612,1997-07-28 00:00:00,1997,7,Maxilaku,20,18,360
+Save-a-lot Markets,USA,SAVEA,10612,1997-07-28 00:00:00,1997,7,Camembert Pierrot,34,40,1360
+Save-a-lot Markets,USA,SAVEA,10612,1997-07-28 00:00:00,1997,7,Lakkalikööri,18,80,1440
+Wilman Kala,Finland,WILMK,10615,1997-07-30 00:00:00,1997,7,P? chinois,24,5,120
+Ricardo Adocicados,Brazil,RICAR,10622,1997-08-06 00:00:00,1997,8,Chang,19,20,380
+Ricardo Adocicados,Brazil,RICAR,10622,1997-08-06 00:00:00,1997,8,Scottish Longbreads,12,5,18,225
+The Cracker Box,USA,THECR,10624,1997-08-07 00:00:00,1997,8,Rössle Sauerkraut,45,6,10,456
+The Cracker Box,USA,THECR,10624,1997-08-07 00:00:00,1997,8,Thüringer Rostbratwurst,123,79,6,742,74
+The Cracker Box,USA,THECR,10624,1997-08-07 00:00:00,1997,8,Gula Malacca,19,45,10,194,5
+Save-a-lot Markets,USA,SAVEA,10627,1997-08-11 00:00:00,1997,8,Tarte au sucre,49,3,15,739,5
+Save-a-lot Markets,USA,SAVEA,10627,1997-08-11 00:00:00,1997,8,Röd Kaviar,15,35,525
+Die Wandernde Kuh,Germany,WANDK,10632,1997-08-14 00:00:00,1997,8,Chang,19,30,570
+Die Wandernde Kuh,Germany,WANDK,10632,1997-08-14 00:00:00,1997,8,Geitost,2,5,20,50
+Ernst Handel,Austria,ERNSH,10633,1997-08-15 00:00:00,1997,8,Queso Manchego La Pastora,38,36,1368
+Ernst Handel,Austria,ERNSH,10633,1997-08-15 00:00:00,1997,8,Konbu,6,13,78
+Ernst Handel,Austria,ERNSH,10633,1997-08-15 00:00:00,1997,8,Gumb?Gummib?hen,31,23,35,1093,05
+Ernst Handel,Austria,ERNSH,10633,1997-08-15 00:00:00,1997,8,Tarte au sucre,49,3,80,3944
+Wartian Herkku,Finland,WARTH,10636,1997-08-19 00:00:00,1997,8,Chef Anton's Cajun Seasoning,22,25,550
+Wartian Herkku,Finland,WARTH,10636,1997-08-19 00:00:00,1997,8,Escargots de Bourgogne,13,25,6,79,5
+Queen Cozinha,Brazil,QUEEN,10637,1997-08-19 00:00:00,1997,8,Queso Cabrales,21,10,210
+Queen Cozinha,Brazil,QUEEN,10637,1997-08-19 00:00:00,1997,8,Valkoinen suklaa,16,25,25,406,25
+Queen Cozinha,Brazil,QUEEN,10637,1997-08-19 00:00:00,1997,8,Gnocchi di nonna Alice,38,60,2280
+Sant?ourmet,Norway,SANTG,10639,1997-08-20 00:00:00,1997,8,Carnarvon Tigers,62,5,8,500
+Die Wandernde Kuh,Germany,WANDK,10640,1997-08-21 00:00:00,1997,8,Gudbrandsdalsost,36,20,720
+Die Wandernde Kuh,Germany,WANDK,10640,1997-08-21 00:00:00,1997,8,Outback Lager,15,15,225
+Simons bistro,Denmark,SIMOB,10642,1997-08-22 00:00:00,1997,8,Sir Rodney's Scones,10,30,300
+Simons bistro,Denmark,SIMOB,10642,1997-08-22 00:00:00,1997,8,Sirop d'?ble,28,5,20,570
+Wellington Importadora,Brazil,WELLI,10644,1997-08-25 00:00:00,1997,8,Carnarvon Tigers,62,5,4,250
+Wellington Importadora,Brazil,WELLI,10644,1997-08-25 00:00:00,1997,8,Ipoh Coffee,46,20,920
+Wellington Importadora,Brazil,WELLI,10644,1997-08-25 00:00:00,1997,8,Spegesild,12,21,252
+Que Del?a,Brazil,QUEDE,10647,1997-08-27 00:00:00,1997,8,Teatime Chocolate Biscuits,9,2,30,276
+Que Del?a,Brazil,QUEDE,10647,1997-08-27 00:00:00,1997,8,Chartreuse verte,18,20,360
+Ricardo Adocicados,Brazil,RICAR,10648,1997-08-28 00:00:00,1997,8,Gustaf's Kn?ebröd,21,15,315
+Ricardo Adocicados,Brazil,RICAR,10648,1997-08-28 00:00:00,1997,8,Guaran?ant?ica,4,5,15,67,5
+Die Wandernde Kuh,Germany,WANDK,10651,1997-09-01 00:00:00,1997,9,Teatime Chocolate Biscuits,9,2,12,110,4
+Die Wandernde Kuh,Germany,WANDK,10651,1997-09-01 00:00:00,1997,9,Gustaf's Kn?ebröd,21,20,420
+Reggiani Caseifici,Italy,REGGC,10655,1997-09-03 00:00:00,1997,9,Jack's New England Clam Chowder,9,65,20,193
+Save-a-lot Markets,USA,SAVEA,10657,1997-09-04 00:00:00,1997,9,Genen Shouyu,15,5,50,775
+Save-a-lot Markets,USA,SAVEA,10657,1997-09-04 00:00:00,1997,9,Jack's New England Clam Chowder,9,65,24,231,6
+Save-a-lot Markets,USA,SAVEA,10657,1997-09-04 00:00:00,1997,9,Spegesild,12,45,540
+Save-a-lot Markets,USA,SAVEA,10657,1997-09-04 00:00:00,1997,9,Zaanse koeken,9,5,10,95
+Save-a-lot Markets,USA,SAVEA,10657,1997-09-04 00:00:00,1997,9,Gnocchi di nonna Alice,38,45,1710
+Save-a-lot Markets,USA,SAVEA,10657,1997-09-04 00:00:00,1997,9,Camembert Pierrot,34,30,1020
+QUICK-Stop,Germany,QUICK,10658,1997-09-05 00:00:00,1997,9,Sir Rodney's Scones,10,60,600
+QUICK-Stop,Germany,QUICK,10658,1997-09-05 00:00:00,1997,9,Boston Crab Meat,18,4,70,1288
+QUICK-Stop,Germany,QUICK,10658,1997-09-05 00:00:00,1997,9,Camembert Pierrot,34,55,1870
+QUICK-Stop,Germany,QUICK,10658,1997-09-05 00:00:00,1997,9,Original Frankfurter grüne So?,13,70,910
+Queen Cozinha,Brazil,QUEEN,10659,1997-09-05 00:00:00,1997,9,Gorgonzola Telino,12,5,20,250
+Queen Cozinha,Brazil,QUEEN,10659,1997-09-05 00:00:00,1997,9,Boston Crab Meat,18,4,24,441,6
+Queen Cozinha,Brazil,QUEEN,10659,1997-09-05 00:00:00,1997,9,Outback Lager,15,40,600
+Richter Supermarkt,Switzerland,RICSU,10666,1997-09-12 00:00:00,1997,9,Thüringer Rostbratwurst,123,79,36,4456,44
+Richter Supermarkt,Switzerland,RICSU,10666,1997-09-12 00:00:00,1997,9,Louisiana Fiery Hot Pepper Sauce,21,05,10,210,5
+Ernst Handel,Austria,ERNSH,10667,1997-09-12 00:00:00,1997,9,Gudbrandsdalsost,36,45,1620
+Ernst Handel,Austria,ERNSH,10667,1997-09-12 00:00:00,1997,9,Flotemysost,21,5,14,301
+Die Wandernde Kuh,Germany,WANDK,10668,1997-09-15 00:00:00,1997,9,Gorgonzola Telino,12,5,8,100
+Die Wandernde Kuh,Germany,WANDK,10668,1997-09-15 00:00:00,1997,9,P? chinois,24,4,96
+Die Wandernde Kuh,Germany,WANDK,10668,1997-09-15 00:00:00,1997,9,Wimmers gute Semmelknödel,33,25,15,498,75
+Simons bistro,Denmark,SIMOB,10669,1997-09-15 00:00:00,1997,9,Inlagd Sill,19,30,570
+Wilman Kala,Finland,WILMK,10673,1997-09-18 00:00:00,1997,9,Pavlova,17,45,3,52,35
+Wilman Kala,Finland,WILMK,10673,1997-09-18 00:00:00,1997,9,Singaporean Hokkien Fried Mee,14,6,84
+Wilman Kala,Finland,WILMK,10673,1997-09-18 00:00:00,1997,9,Ipoh Coffee,46,6,276
+Tortuga Restaurante,Mexico,TORTU,10676,1997-09-22 00:00:00,1997,9,Ikura,31,2,62
+Tortuga Restaurante,Mexico,TORTU,10676,1997-09-22 00:00:00,1997,9,Teatime Chocolate Biscuits,9,2,7,64,4
+Tortuga Restaurante,Mexico,TORTU,10676,1997-09-22 00:00:00,1997,9,Gula Malacca,19,45,21,408,45
+Save-a-lot Markets,USA,SAVEA,10678,1997-09-23 00:00:00,1997,9,Queso Manchego La Pastora,38,100,3800
+Save-a-lot Markets,USA,SAVEA,10678,1997-09-23 00:00:00,1997,9,Geitost,2,5,30,75
+Save-a-lot Markets,USA,SAVEA,10678,1997-09-23 00:00:00,1997,9,Jack's New England Clam Chowder,9,65,120,1158
+Save-a-lot Markets,USA,SAVEA,10678,1997-09-23 00:00:00,1997,9,Tourti?,7,45,30,223,5
+Du monde entier,France,DUMON,10683,1997-09-26 00:00:00,1997,9,Filo Mix,7,9,63
+Vaffeljernet,Denmark,VAFFE,10688,1997-10-01 00:00:00,1997,10,Ikura,31,18,558
+Vaffeljernet,Denmark,VAFFE,10688,1997-10-01 00:00:00,1997,10,Rössle Sauerkraut,45,6,60,2736
+Vaffeljernet,Denmark,VAFFE,10688,1997-10-01 00:00:00,1997,10,Sasquatch Ale,14,14,196
+QUICK-Stop,Germany,QUICK,10691,1997-10-03 00:00:00,1997,10,Chai,18,30,540
+QUICK-Stop,Germany,QUICK,10691,1997-10-03 00:00:00,1997,10,Thüringer Rostbratwurst,123,79,40,4951,6
+QUICK-Stop,Germany,QUICK,10691,1997-10-03 00:00:00,1997,10,Ipoh Coffee,46,40,1840
+QUICK-Stop,Germany,QUICK,10691,1997-10-03 00:00:00,1997,10,Gula Malacca,19,45,24,466,8
+QUICK-Stop,Germany,QUICK,10691,1997-10-03 00:00:00,1997,10,Tarte au sucre,49,3,48,2366,4
+White Clover Markets,USA,WHITC,10693,1997-10-06 00:00:00,1997,10,Mishi Kobe Niku,97,6,582
+White Clover Markets,USA,WHITC,10693,1997-10-06 00:00:00,1997,10,Tourti?,7,45,60,447
+White Clover Markets,USA,WHITC,10693,1997-10-06 00:00:00,1997,10,Gudbrandsdalsost,36,30,1080
+White Clover Markets,USA,WHITC,10693,1997-10-06 00:00:00,1997,10,Röd Kaviar,15,15,225
+QUICK-Stop,Germany,QUICK,10694,1997-10-06 00:00:00,1997,10,Uncle Bob's Organic Dried Pears,30,90,2700
+QUICK-Stop,Germany,QUICK,10694,1997-10-06 00:00:00,1997,10,Raclette Courdavault,55,25,1375
+QUICK-Stop,Germany,QUICK,10694,1997-10-06 00:00:00,1997,10,Outback Lager,15,50,750
+Wilman Kala,Finland,WILMK,10695,1997-10-07 00:00:00,1997,10,Northwoods Cranberry Sauce,40,10,400
+Wilman Kala,Finland,WILMK,10695,1997-10-07 00:00:00,1997,10,Queso Manchego La Pastora,38,4,152
+Wilman Kala,Finland,WILMK,10695,1997-10-07 00:00:00,1997,10,Guaran?ant?ica,4,5,20,90
+White Clover Markets,USA,WHITC,10696,1997-10-08 00:00:00,1997,10,Alice Mutton,39,20,780
+White Clover Markets,USA,WHITC,10696,1997-10-08 00:00:00,1997,10,Spegesild,12,18,216
+Ernst Handel,Austria,ERNSH,10698,1997-10-09 00:00:00,1997,10,Queso Cabrales,21,15,315
+Ernst Handel,Austria,ERNSH,10698,1997-10-09 00:00:00,1997,10,Alice Mutton,39,8,312
+Ernst Handel,Austria,ERNSH,10698,1997-10-09 00:00:00,1997,10,Thüringer Rostbratwurst,123,79,12,1485,48
+Ernst Handel,Austria,ERNSH,10698,1997-10-09 00:00:00,1997,10,Louisiana Fiery Hot Pepper Sauce,21,05,65,1368,25
+Ernst Handel,Austria,ERNSH,10698,1997-10-09 00:00:00,1997,10,Outback Lager,15,8,120
+Save-a-lot Markets,USA,SAVEA,10700,1997-10-10 00:00:00,1997,10,Chai,18,5,90
+Save-a-lot Markets,USA,SAVEA,10700,1997-10-10 00:00:00,1997,10,Sasquatch Ale,14,12,168
+Save-a-lot Markets,USA,SAVEA,10700,1997-10-10 00:00:00,1997,10,Scottish Longbreads,12,5,40,500
+Save-a-lot Markets,USA,SAVEA,10700,1997-10-10 00:00:00,1997,10,Flotemysost,21,5,60,1290
+Queen Cozinha,Brazil,QUEEN,10704,1997-10-14 00:00:00,1997,10,Chef Anton's Cajun Seasoning,22,6,132
+Queen Cozinha,Brazil,QUEEN,10704,1997-10-14 00:00:00,1997,10,Guaran?ant?ica,4,5,35,157,5
+Queen Cozinha,Brazil,QUEEN,10704,1997-10-14 00:00:00,1997,10,Chocolade,12,75,24,306
+The Big Cheese,USA,THEBI,10708,1997-10-17 00:00:00,1997,10,Chef Anton's Gumbo Mix,21,35,4,85,4
+The Big Cheese,USA,THEBI,10708,1997-10-17 00:00:00,1997,10,Inlagd Sill,19,5,95
+Save-a-lot Markets,USA,SAVEA,10711,1997-10-21 00:00:00,1997,10,Teatime Chocolate Biscuits,9,2,12,110,4
+Save-a-lot Markets,USA,SAVEA,10711,1997-10-21 00:00:00,1997,10,Jack's New England Clam Chowder,9,65,42,405,3
+Save-a-lot Markets,USA,SAVEA,10711,1997-10-21 00:00:00,1997,10,Perth Pasties,32,8,120,3936
+Save-a-lot Markets,USA,SAVEA,10713,1997-10-22 00:00:00,1997,10,Ikura,31,18,558
+Save-a-lot Markets,USA,SAVEA,10713,1997-10-22 00:00:00,1997,10,Gumb?Gummib?hen,31,23,30,936,9
+Save-a-lot Markets,USA,SAVEA,10713,1997-10-22 00:00:00,1997,10,Rogede sild,9,5,110,1045
+Save-a-lot Markets,USA,SAVEA,10713,1997-10-22 00:00:00,1997,10,Spegesild,12,24,288
+Save-a-lot Markets,USA,SAVEA,10714,1997-10-22 00:00:00,1997,10,Chang,19,30,570
+Save-a-lot Markets,USA,SAVEA,10714,1997-10-22 00:00:00,1997,10,Alice Mutton,39,27,1053
+Save-a-lot Markets,USA,SAVEA,10714,1997-10-22 00:00:00,1997,10,Zaanse koeken,9,5,50,475
+Save-a-lot Markets,USA,SAVEA,10714,1997-10-22 00:00:00,1997,10,Gnocchi di nonna Alice,38,18,684
+Save-a-lot Markets,USA,SAVEA,10714,1997-10-22 00:00:00,1997,10,Escargots de Bourgogne,13,25,12,159
+Rancho grande,Argentina,RANCH,10716,1997-10-24 00:00:00,1997,10,Sir Rodney's Scones,10,5,50
+Rancho grande,Argentina,RANCH,10716,1997-10-24 00:00:00,1997,10,Manjimup Dried Apples,53,7,371
+Rancho grande,Argentina,RANCH,10716,1997-10-24 00:00:00,1997,10,Sirop d'?ble,28,5,10,285
+Que Del?a,Brazil,QUEDE,10720,1997-10-28 00:00:00,1997,10,Steeleye Stout,18,21,378
+Que Del?a,Brazil,QUEDE,10720,1997-10-28 00:00:00,1997,10,Flotemysost,21,5,8,172
+QUICK-Stop,Germany,QUICK,10721,1997-10-29 00:00:00,1997,10,Gula Malacca,19,45,50,972,5
+Save-a-lot Markets,USA,SAVEA,10722,1997-10-29 00:00:00,1997,10,Chang,19,3,57
+Save-a-lot Markets,USA,SAVEA,10722,1997-10-29 00:00:00,1997,10,Gorgonzola Telino,12,5,50,625
+Save-a-lot Markets,USA,SAVEA,10722,1997-10-29 00:00:00,1997,10,Scottish Longbreads,12,5,45,562,5
+Save-a-lot Markets,USA,SAVEA,10722,1997-10-29 00:00:00,1997,10,Rhönbr?Klosterbier,7,75,42,325,5
+White Clover Markets,USA,WHITC,10723,1997-10-30 00:00:00,1997,10,Gumb?Gummib?hen,31,23,15,468,45
+Eastern Connection,UK,EASTC,10726,1997-11-03 00:00:00,1997,11,Chef Anton's Cajun Seasoning,22,25,550
+Eastern Connection,UK,EASTC,10726,1997-11-03 00:00:00,1997,11,Queso Cabrales,21,5,105
+Reggiani Caseifici,Italy,REGGC,10727,1997-11-03 00:00:00,1997,11,Alice Mutton,39,20,780
+Reggiani Caseifici,Italy,REGGC,10727,1997-11-03 00:00:00,1997,11,Gnocchi di nonna Alice,38,10,380
+Reggiani Caseifici,Italy,REGGC,10727,1997-11-03 00:00:00,1997,11,Raclette Courdavault,55,10,550
+Queen Cozinha,Brazil,QUEEN,10728,1997-11-04 00:00:00,1997,11,Nord-Ost Matjeshering,25,89,15,388,35
+Queen Cozinha,Brazil,QUEEN,10728,1997-11-04 00:00:00,1997,11,Boston Crab Meat,18,4,6,110,4
+Queen Cozinha,Brazil,QUEEN,10728,1997-11-04 00:00:00,1997,11,P? chinois,24,12,288
+Queen Cozinha,Brazil,QUEEN,10728,1997-11-04 00:00:00,1997,11,Camembert Pierrot,34,15,510
+Chop-suey Chinese,Switzerland,CHOPS,10731,1997-11-06 00:00:00,1997,11,Sir Rodney's Scones,10,40,400
+Chop-suey Chinese,Switzerland,CHOPS,10731,1997-11-06 00:00:00,1997,11,Manjimup Dried Apples,53,30,1590
+Vins et alcools Chevalier,France,VINET,10737,1997-11-11 00:00:00,1997,11,Konbu,6,4,24
+Vins et alcools Chevalier,France,VINET,10737,1997-11-11 00:00:00,1997,11,Jack's New England Clam Chowder,9,65,12,115,8
+Sp?alit?du monde,France,SPECD,10738,1997-11-12 00:00:00,1997,11,Pavlova,17,45,3,52,35
+Vins et alcools Chevalier,France,VINET,10739,1997-11-12 00:00:00,1997,11,Inlagd Sill,19,6,114
+Vins et alcools Chevalier,France,VINET,10739,1997-11-12 00:00:00,1997,11,Filo Mix,7,18,126
+White Clover Markets,USA,WHITC,10740,1997-11-13 00:00:00,1997,11,Rössle Sauerkraut,45,6,5,228
+White Clover Markets,USA,WHITC,10740,1997-11-13 00:00:00,1997,11,Steeleye Stout,18,35,630
+White Clover Markets,USA,WHITC,10740,1997-11-13 00:00:00,1997,11,Rogede sild,9,5,40,380
+White Clover Markets,USA,WHITC,10740,1997-11-13 00:00:00,1997,11,Gnocchi di nonna Alice,38,14,532
+Vaffeljernet,Denmark,VAFFE,10744,1997-11-17 00:00:00,1997,11,Boston Crab Meat,18,4,50,920
+QUICK-Stop,Germany,QUICK,10745,1997-11-18 00:00:00,1997,11,Carnarvon Tigers,62,5,24,1500
+QUICK-Stop,Germany,QUICK,10745,1997-11-18 00:00:00,1997,11,Gula Malacca,19,45,16,311,2
+QUICK-Stop,Germany,QUICK,10745,1997-11-18 00:00:00,1997,11,Raclette Courdavault,55,45,2475
+QUICK-Stop,Germany,QUICK,10745,1997-11-18 00:00:00,1997,11,Mozzarella di Giovanni,34,8,7,243,6
+Chop-suey Chinese,Switzerland,CHOPS,10746,1997-11-19 00:00:00,1997,11,Konbu,6,6,36
+Chop-suey Chinese,Switzerland,CHOPS,10746,1997-11-19 00:00:00,1997,11,Singaporean Hokkien Fried Mee,14,28,392
+Chop-suey Chinese,Switzerland,CHOPS,10746,1997-11-19 00:00:00,1997,11,Tarte au sucre,49,3,9,443,7
+Chop-suey Chinese,Switzerland,CHOPS,10746,1997-11-19 00:00:00,1997,11,Gudbrandsdalsost,36,40,1440
+Save-a-lot Markets,USA,SAVEA,10748,1997-11-20 00:00:00,1997,11,Tunnbröd,9,44,396
+Save-a-lot Markets,USA,SAVEA,10748,1997-11-20 00:00:00,1997,11,Boston Crab Meat,18,4,40,736
+Save-a-lot Markets,USA,SAVEA,10748,1997-11-20 00:00:00,1997,11,Gnocchi di nonna Alice,38,28,1064
+Wartian Herkku,Finland,WARTH,10750,1997-11-21 00:00:00,1997,11,Tofu,23,25,5,116,25
+Wartian Herkku,Finland,WARTH,10750,1997-11-21 00:00:00,1997,11,Rogede sild,9,5,40,380
+Wartian Herkku,Finland,WARTH,10750,1997-11-21 00:00:00,1997,11,Raclette Courdavault,55,25,1375
+Richter Supermarkt,Switzerland,RICSU,10751,1997-11-24 00:00:00,1997,11,Gumb?Gummib?hen,31,23,12,374,76
+Richter Supermarkt,Switzerland,RICSU,10751,1997-11-24 00:00:00,1997,11,Nord-Ost Matjeshering,25,89,30,776,7
+Richter Supermarkt,Switzerland,RICSU,10751,1997-11-24 00:00:00,1997,11,Valkoinen suklaa,16,25,20,325
+Richter Supermarkt,Switzerland,RICSU,10751,1997-11-24 00:00:00,1997,11,Röd Kaviar,15,15,225
+Split Rail Beer & Ale,USA,SPLIR,10756,1997-11-27 00:00:00,1997,11,Carnarvon Tigers,62,5,21,1312,5
+Split Rail Beer & Ale,USA,SPLIR,10756,1997-11-27 00:00:00,1997,11,Inlagd Sill,19,20,380
+Split Rail Beer & Ale,USA,SPLIR,10756,1997-11-27 00:00:00,1997,11,Scottish Longbreads,12,5,6,75
+Split Rail Beer & Ale,USA,SPLIR,10756,1997-11-27 00:00:00,1997,11,Gudbrandsdalsost,36,20,720
+Save-a-lot Markets,USA,SAVEA,10757,1997-11-27 00:00:00,1997,11,Sasquatch Ale,14,30,420
+Save-a-lot Markets,USA,SAVEA,10757,1997-11-27 00:00:00,1997,11,Raclette Courdavault,55,7,385
+Save-a-lot Markets,USA,SAVEA,10757,1997-11-27 00:00:00,1997,11,Tarte au sucre,49,3,30,1479
+Save-a-lot Markets,USA,SAVEA,10757,1997-11-27 00:00:00,1997,11,Wimmers gute Semmelknödel,33,25,24,798
+Richter Supermarkt,Switzerland,RICSU,10758,1997-11-28 00:00:00,1997,11,Gumb?Gummib?hen,31,23,20,624,6
+Richter Supermarkt,Switzerland,RICSU,10758,1997-11-28 00:00:00,1997,11,Filo Mix,7,60,420
+Richter Supermarkt,Switzerland,RICSU,10758,1997-11-28 00:00:00,1997,11,Outback Lager,15,40,600
+Rattlesnake Canyon Grocery,USA,RATTC,10761,1997-12-02 00:00:00,1997,12,NuNuCa Nu?Nougat-Creme,14,35,490
+Rattlesnake Canyon Grocery,USA,RATTC,10761,1997-12-02 00:00:00,1997,12,Rhönbr?Klosterbier,7,75,18,139,5
+Ernst Handel,Austria,ERNSH,10764,1997-12-03 00:00:00,1997,12,Aniseed Syrup,10,20,200
+Ernst Handel,Austria,ERNSH,10764,1997-12-03 00:00:00,1997,12,Chartreuse verte,18,130,2340
+QUICK-Stop,Germany,QUICK,10765,1997-12-04 00:00:00,1997,12,Louisiana Fiery Hot Pepper Sauce,21,05,80,1684
+Supr?s d?ces,Belgium,SUPRD,10767,1997-12-05 00:00:00,1997,12,Singaporean Hokkien Fried Mee,14,2,28
+Vaffeljernet,Denmark,VAFFE,10769,1997-12-08 00:00:00,1997,12,Jack's New England Clam Chowder,9,65,30,289,5
+Vaffeljernet,Denmark,VAFFE,10769,1997-12-08 00:00:00,1997,12,Filo Mix,7,15,105
+Vaffeljernet,Denmark,VAFFE,10769,1997-12-08 00:00:00,1997,12,Sirop d'?ble,28,5,20,570
+Vaffeljernet,Denmark,VAFFE,10769,1997-12-08 00:00:00,1997,12,Tarte au sucre,49,3,15,739,5
+Ernst Handel,Austria,ERNSH,10771,1997-12-10 00:00:00,1997,12,Flotemysost,21,5,16,344
+Ernst Handel,Austria,ERNSH,10773,1997-12-11 00:00:00,1997,12,Alice Mutton,39,33,1287
+Ernst Handel,Austria,ERNSH,10773,1997-12-11 00:00:00,1997,12,Gorgonzola Telino,12,5,70,875
+Ernst Handel,Austria,ERNSH,10773,1997-12-11 00:00:00,1997,12,Rhönbr?Klosterbier,7,75,7,54,25
+The Cracker Box,USA,THECR,10775,1997-12-12 00:00:00,1997,12,Ikura,31,6,186
+The Cracker Box,USA,THECR,10775,1997-12-12 00:00:00,1997,12,Laughing Lumberjack Lager,14,3,42
+Ernst Handel,Austria,ERNSH,10776,1997-12-15 00:00:00,1997,12,Gorgonzola Telino,12,5,16,200
+Ernst Handel,Austria,ERNSH,10776,1997-12-15 00:00:00,1997,12,Singaporean Hokkien Fried Mee,14,12,168
+Ernst Handel,Austria,ERNSH,10776,1997-12-15 00:00:00,1997,12,Rogede sild,9,5,27,256,5
+Ernst Handel,Austria,ERNSH,10776,1997-12-15 00:00:00,1997,12,Manjimup Dried Apples,53,120,6360
+Wartian Herkku,Finland,WARTH,10781,1997-12-17 00:00:00,1997,12,Tourti?,7,45,3,22,35
+Wartian Herkku,Finland,WARTH,10781,1997-12-17 00:00:00,1997,12,Gnocchi di nonna Alice,38,20,760
+Wartian Herkku,Finland,WARTH,10781,1997-12-17 00:00:00,1997,12,Longlife Tofu,10,35,350
+Cactus Comidas para llevar,Argentina,CACTU,10782,1997-12-17 00:00:00,1997,12,Gorgonzola Telino,12,5,1,12,5
+Queen Cozinha,Brazil,QUEEN,10786,1997-12-19 00:00:00,1997,12,Northwoods Cranberry Sauce,40,30,1200
+Queen Cozinha,Brazil,QUEEN,10786,1997-12-19 00:00:00,1997,12,Nord-Ost Matjeshering,25,89,15,388,35
+Queen Cozinha,Brazil,QUEEN,10786,1997-12-19 00:00:00,1997,12,Rhönbr?Klosterbier,7,75,42,325,5
+QUICK-Stop,Germany,QUICK,10788,1997-12-22 00:00:00,1997,12,Teatime Chocolate Biscuits,9,2,50,460
+QUICK-Stop,Germany,QUICK,10788,1997-12-22 00:00:00,1997,12,Rhönbr?Klosterbier,7,75,40,310
+Wolski  Zajazd,Poland,WOLZA,10792,1997-12-23 00:00:00,1997,12,Chang,19,10,190
+Wolski  Zajazd,Poland,WOLZA,10792,1997-12-23 00:00:00,1997,12,Tourti?,7,45,3,22,35
+Wolski  Zajazd,Poland,WOLZA,10792,1997-12-23 00:00:00,1997,12,Scottish Longbreads,12,5,15,187,5
+Que Del?a,Brazil,QUEDE,10794,1997-12-24 00:00:00,1997,12,Tofu,23,25,15,348,75
+Que Del?a,Brazil,QUEDE,10794,1997-12-24 00:00:00,1997,12,Tourti?,7,45,6,44,7
+Ernst Handel,Austria,ERNSH,10795,1997-12-24 00:00:00,1997,12,Pavlova,17,45,65,1134,25
+Ernst Handel,Austria,ERNSH,10795,1997-12-24 00:00:00,1997,12,Alice Mutton,39,35,1365
+Drachenblut Delikatessen,Germany,DRACD,10797,1997-12-25 00:00:00,1997,12,Queso Cabrales,21,20,420
+Seven Seas Imports,UK,SEVES,10800,1997-12-26 00:00:00,1997,12,Queso Cabrales,21,50,1050
+Seven Seas Imports,UK,SEVES,10800,1997-12-26 00:00:00,1997,12,Manjimup Dried Apples,53,10,530
+Seven Seas Imports,UK,SEVES,10800,1997-12-26 00:00:00,1997,12,Tourti?,7,45,7,52,15
+Simons bistro,Denmark,SIMOB,10802,1997-12-29 00:00:00,1997,12,Nord-Ost Matjeshering,25,89,25,647,25
+Simons bistro,Denmark,SIMOB,10802,1997-12-29 00:00:00,1997,12,Manjimup Dried Apples,53,30,1590
+Simons bistro,Denmark,SIMOB,10802,1997-12-29 00:00:00,1997,12,P? chinois,24,60,1440
+Simons bistro,Denmark,SIMOB,10802,1997-12-29 00:00:00,1997,12,Tarte au sucre,49,3,5,246,5
+Wellington Importadora,Brazil,WELLI,10803,1997-12-30 00:00:00,1997,12,Teatime Chocolate Biscuits,9,2,24,220,8
+Wellington Importadora,Brazil,WELLI,10803,1997-12-30 00:00:00,1997,12,NuNuCa Nu?Nougat-Creme,14,15,210
+Wellington Importadora,Brazil,WELLI,10803,1997-12-30 00:00:00,1997,12,Raclette Courdavault,55,15,825
+Seven Seas Imports,UK,SEVES,10804,1997-12-30 00:00:00,1997,12,Ikura,31,36,1116
+Seven Seas Imports,UK,SEVES,10804,1997-12-30 00:00:00,1997,12,Rössle Sauerkraut,45,6,24,1094,4
+Seven Seas Imports,UK,SEVES,10804,1997-12-30 00:00:00,1997,12,Maxilaku,20,4,80
+The Big Cheese,USA,THEBI,10805,1997-12-30 00:00:00,1997,12,Sasquatch Ale,14,10,140
+The Big Cheese,USA,THEBI,10805,1997-12-30 00:00:00,1997,12,C??de Blaye,263,5,10,2635
+Victuailles en stock,France,VICTE,10806,1997-12-31 00:00:00,1997,12,Chang,19,20,380
+Victuailles en stock,France,VICTE,10806,1997-12-31 00:00:00,1997,12,Louisiana Fiery Hot Pepper Sauce,21,05,2,42,1
+Victuailles en stock,France,VICTE,10806,1997-12-31 00:00:00,1997,12,Longlife Tofu,10,15,150
+Wellington Importadora,Brazil,WELLI,10809,1998-01-01 00:00:00,1998,1,Filo Mix,7,20,140
+Reggiani Caseifici,Italy,REGGC,10812,1998-01-02 00:00:00,1998,1,Gorgonzola Telino,12,5,16,200
+Reggiani Caseifici,Italy,REGGC,10812,1998-01-02 00:00:00,1998,1,Mozzarella di Giovanni,34,8,40,1392
+Reggiani Caseifici,Italy,REGGC,10812,1998-01-02 00:00:00,1998,1,Original Frankfurter grüne So?,13,20,260
+Ricardo Adocicados,Brazil,RICAR,10813,1998-01-05 00:00:00,1998,1,Chang,19,12,228
+Ricardo Adocicados,Brazil,RICAR,10813,1998-01-05 00:00:00,1998,1,Spegesild,12,35,420
+Victuailles en stock,France,VICTE,10814,1998-01-05 00:00:00,1998,1,Jack's New England Clam Chowder,9,65,20,193
+Victuailles en stock,France,VICTE,10814,1998-01-05 00:00:00,1998,1,Ipoh Coffee,46,20,920
+Victuailles en stock,France,VICTE,10814,1998-01-05 00:00:00,1998,1,Chocolade,12,75,8,102
+Victuailles en stock,France,VICTE,10814,1998-01-05 00:00:00,1998,1,Sirop d'?ble,28,5,30,855
+Save-a-lot Markets,USA,SAVEA,10815,1998-01-05 00:00:00,1998,1,Geitost,2,5,16,40
+Cactus Comidas para llevar,Argentina,CACTU,10819,1998-01-07 00:00:00,1998,1,Ipoh Coffee,46,7,322
+Cactus Comidas para llevar,Argentina,CACTU,10819,1998-01-07 00:00:00,1998,1,Rhönbr?Klosterbier,7,75,20,155
+Rattlesnake Canyon Grocery,USA,RATTC,10820,1998-01-07 00:00:00,1998,1,Gnocchi di nonna Alice,38,30,1140
+Split Rail Beer & Ale,USA,SPLIR,10821,1998-01-08 00:00:00,1998,1,Steeleye Stout,18,20,360
+Split Rail Beer & Ale,USA,SPLIR,10821,1998-01-08 00:00:00,1998,1,Manjimup Dried Apples,53,6,318
+Trail's Head Gourmet Provisioners,USA,TRAIH,10822,1998-01-08 00:00:00,1998,1,Tarte au sucre,49,3,3,147,9
+Trail's Head Gourmet Provisioners,USA,TRAIH,10822,1998-01-08 00:00:00,1998,1,Outback Lager,15,6,90
+Drachenblut Delikatessen,Germany,DRACD,10825,1998-01-09 00:00:00,1998,1,Gumb?Gummib?hen,31,23,12,374,76
+Drachenblut Delikatessen,Germany,DRACD,10825,1998-01-09 00:00:00,1998,1,Perth Pasties,32,8,20,656
+Rancho grande,Argentina,RANCH,10828,1998-01-13 00:00:00,1998,1,Sir Rodney's Marmalade,81,5,405
+Rancho grande,Argentina,RANCH,10828,1998-01-13 00:00:00,1998,1,C??de Blaye,263,5,2,527
+Tradi? Hipermercados,Brazil,TRADH,10830,1998-01-13 00:00:00,1998,1,Grandma's Boysenberry Spread,25,6,150
+Tradi? Hipermercados,Brazil,TRADH,10830,1998-01-13 00:00:00,1998,1,Chartreuse verte,18,28,504
+Tradi? Hipermercados,Brazil,TRADH,10830,1998-01-13 00:00:00,1998,1,Camembert Pierrot,34,30,1020
+Tradi? Hipermercados,Brazil,TRADH,10830,1998-01-13 00:00:00,1998,1,Scottish Longbreads,12,5,24,300
+Sant?ourmet,Norway,SANTG,10831,1998-01-14 00:00:00,1998,1,Teatime Chocolate Biscuits,9,2,2,18,4
+Sant?ourmet,Norway,SANTG,10831,1998-01-14 00:00:00,1998,1,Steeleye Stout,18,8,144
+Sant?ourmet,Norway,SANTG,10831,1998-01-14 00:00:00,1998,1,C??de Blaye,263,5,8,2108
+Sant?ourmet,Norway,SANTG,10831,1998-01-14 00:00:00,1998,1,Ipoh Coffee,46,9,414
+Tradi? Hipermercados,Brazil,TRADH,10834,1998-01-15 00:00:00,1998,1,Thüringer Rostbratwurst,123,79,8,990,32
+Tradi? Hipermercados,Brazil,TRADH,10834,1998-01-15 00:00:00,1998,1,Nord-Ost Matjeshering,25,89,20,517,8
+Ernst Handel,Austria,ERNSH,10836,1998-01-16 00:00:00,1998,1,Gustaf's Kn?ebröd,21,52,1092
+Ernst Handel,Austria,ERNSH,10836,1998-01-16 00:00:00,1998,1,Steeleye Stout,18,6,108
+Ernst Handel,Austria,ERNSH,10836,1998-01-16 00:00:00,1998,1,Ravioli Angelo,19,5,24,468
+Ernst Handel,Austria,ERNSH,10836,1998-01-16 00:00:00,1998,1,Camembert Pierrot,34,60,2040
+Ernst Handel,Austria,ERNSH,10836,1998-01-16 00:00:00,1998,1,Wimmers gute Semmelknödel,33,25,30,997,5
+Tradi? Hipermercados,Brazil,TRADH,10839,1998-01-19 00:00:00,1998,1,Escargots de Bourgogne,13,25,30,397,5
+Tradi? Hipermercados,Brazil,TRADH,10839,1998-01-19 00:00:00,1998,1,Mozzarella di Giovanni,34,8,15,522
+Supr?s d?ces,Belgium,SUPRD,10841,1998-01-20 00:00:00,1998,1,Ikura,31,16,496
+Supr?s d?ces,Belgium,SUPRD,10841,1998-01-20 00:00:00,1998,1,Gnocchi di nonna Alice,38,30,1140
+Supr?s d?ces,Belgium,SUPRD,10841,1998-01-20 00:00:00,1998,1,Raclette Courdavault,55,50,2750
+Supr?s d?ces,Belgium,SUPRD,10841,1998-01-20 00:00:00,1998,1,Original Frankfurter grüne So?,13,15,195
+Tortuga Restaurante,Mexico,TORTU,10842,1998-01-20 00:00:00,1998,1,Queso Cabrales,21,15,315
+Tortuga Restaurante,Mexico,TORTU,10842,1998-01-20 00:00:00,1998,1,Ipoh Coffee,46,5,230
+Tortuga Restaurante,Mexico,TORTU,10842,1998-01-20 00:00:00,1998,1,Scottish Longbreads,12,5,20,250
+Tortuga Restaurante,Mexico,TORTU,10842,1998-01-20 00:00:00,1998,1,Outback Lager,15,12,180
+Victuailles en stock,France,VICTE,10843,1998-01-21 00:00:00,1998,1,Manjimup Dried Apples,53,4,212
+QUICK-Stop,Germany,QUICK,10845,1998-01-21 00:00:00,1998,1,Tunnbröd,9,70,630
+QUICK-Stop,Germany,QUICK,10845,1998-01-21 00:00:00,1998,1,Steeleye Stout,18,25,450
+QUICK-Stop,Germany,QUICK,10845,1998-01-21 00:00:00,1998,1,Singaporean Hokkien Fried Mee,14,42,588
+QUICK-Stop,Germany,QUICK,10845,1998-01-21 00:00:00,1998,1,Escargots de Bourgogne,13,25,60,795
+QUICK-Stop,Germany,QUICK,10845,1998-01-21 00:00:00,1998,1,Wimmers gute Semmelknödel,33,25,48,1596
+Supr?s d?ces,Belgium,SUPRD,10846,1998-01-22 00:00:00,1998,1,Chef Anton's Cajun Seasoning,22,21,462
+Supr?s d?ces,Belgium,SUPRD,10846,1998-01-22 00:00:00,1998,1,Outback Lager,15,30,450
+Supr?s d?ces,Belgium,SUPRD,10846,1998-01-22 00:00:00,1998,1,Longlife Tofu,10,20,200
+Save-a-lot Markets,USA,SAVEA,10847,1998-01-22 00:00:00,1998,1,Chai,18,80,1440
+Save-a-lot Markets,USA,SAVEA,10847,1998-01-22 00:00:00,1998,1,Teatime Chocolate Biscuits,9,2,12,110,4
+Save-a-lot Markets,USA,SAVEA,10847,1998-01-22 00:00:00,1998,1,Gravad lax,26,60,1560
+Save-a-lot Markets,USA,SAVEA,10847,1998-01-22 00:00:00,1998,1,Rogede sild,9,5,36,342
+Save-a-lot Markets,USA,SAVEA,10847,1998-01-22 00:00:00,1998,1,Camembert Pierrot,34,45,1530
+Save-a-lot Markets,USA,SAVEA,10847,1998-01-22 00:00:00,1998,1,Flotemysost,21,5,55,1182,5
+Consolidated Holdings,UK,CONSH,10848,1998-01-23 00:00:00,1998,1,Chef Anton's Gumbo Mix,21,35,30,640,5
+Consolidated Holdings,UK,CONSH,10848,1998-01-23 00:00:00,1998,1,Mishi Kobe Niku,97,3,291
+Victuailles en stock,France,VICTE,10850,1998-01-23 00:00:00,1998,1,NuNuCa Nu?Nougat-Creme,14,20,280
+Victuailles en stock,France,VICTE,10850,1998-01-23 00:00:00,1998,1,Geitost,2,5,4,10
+Victuailles en stock,France,VICTE,10850,1998-01-23 00:00:00,1998,1,Outback Lager,15,30,450
+Ricardo Adocicados,Brazil,RICAR,10851,1998-01-26 00:00:00,1998,1,Chang,19,5,95
+Ricardo Adocicados,Brazil,RICAR,10851,1998-01-26 00:00:00,1998,1,NuNuCa Nu?Nougat-Creme,14,10,140
+Ricardo Adocicados,Brazil,RICAR,10851,1998-01-26 00:00:00,1998,1,Ravioli Angelo,19,5,10,195
+Ricardo Adocicados,Brazil,RICAR,10851,1998-01-26 00:00:00,1998,1,Raclette Courdavault,55,42,2310
+Rattlesnake Canyon Grocery,USA,RATTC,10852,1998-01-26 00:00:00,1998,1,Chang,19,15,285
+Rattlesnake Canyon Grocery,USA,RATTC,10852,1998-01-26 00:00:00,1998,1,Alice Mutton,39,6,234
+Rattlesnake Canyon Grocery,USA,RATTC,10852,1998-01-26 00:00:00,1998,1,Tarte au sucre,49,3,50,2465
+Ernst Handel,Austria,ERNSH,10854,1998-01-27 00:00:00,1998,1,Ikura,31,100,3100
+Ernst Handel,Austria,ERNSH,10854,1998-01-27 00:00:00,1998,1,Konbu,6,65,390
+White Clover Markets,USA,WHITC,10861,1998-01-30 00:00:00,1998,1,Alice Mutton,39,42,1638
+White Clover Markets,USA,WHITC,10861,1998-01-30 00:00:00,1998,1,Carnarvon Tigers,62,5,20,1250
+White Clover Markets,USA,WHITC,10861,1998-01-30 00:00:00,1998,1,Sir Rodney's Scones,10,40,400
+White Clover Markets,USA,WHITC,10861,1998-01-30 00:00:00,1998,1,Geitost,2,5,35,87,5
+White Clover Markets,USA,WHITC,10861,1998-01-30 00:00:00,1998,1,Tarte au sucre,49,3,3,147,9
+QUICK-Stop,Germany,QUICK,10865,1998-02-02 00:00:00,1998,2,C??de Blaye,263,5,60,15810
+QUICK-Stop,Germany,QUICK,10865,1998-02-02 00:00:00,1998,2,Chartreuse verte,18,80,1440
+Queen Cozinha,Brazil,QUEEN,10868,1998-02-04 00:00:00,1998,2,Gumb?Gummib?hen,31,23,20,624,6
+Queen Cozinha,Brazil,QUEEN,10868,1998-02-04 00:00:00,1998,2,Steeleye Stout,18,30,540
+Queen Cozinha,Brazil,QUEEN,10868,1998-02-04 00:00:00,1998,2,Maxilaku,20,42,840
+Seven Seas Imports,UK,SEVES,10869,1998-02-04 00:00:00,1998,2,Chai,18,40,720
+Seven Seas Imports,UK,SEVES,10869,1998-02-04 00:00:00,1998,2,Queso Cabrales,21,10,210
+Seven Seas Imports,UK,SEVES,10869,1998-02-04 00:00:00,1998,2,Tunnbröd,9,50,450
+Seven Seas Imports,UK,SEVES,10869,1998-02-04 00:00:00,1998,2,Scottish Longbreads,12,5,20,250
+Wolski  Zajazd,Poland,WOLZA,10870,1998-02-04 00:00:00,1998,2,Steeleye Stout,18,3,54
+Wolski  Zajazd,Poland,WOLZA,10870,1998-02-04 00:00:00,1998,2,Manjimup Dried Apples,53,2,106
+Wilman Kala,Finland,WILMK,10873,1998-02-06 00:00:00,1998,2,Sir Rodney's Scones,10,20,200
+Wilman Kala,Finland,WILMK,10873,1998-02-06 00:00:00,1998,2,Rössle Sauerkraut,45,6,3,136,8
+Ricardo Adocicados,Brazil,RICAR,10877,1998-02-09 00:00:00,1998,2,Pavlova,17,45,30,523,5
+Ricardo Adocicados,Brazil,RICAR,10877,1998-02-09 00:00:00,1998,2,Carnarvon Tigers,62,5,25,1562,5
+QUICK-Stop,Germany,QUICK,10878,1998-02-10 00:00:00,1998,2,Sir Rodney's Marmalade,81,20,1620
+Wilman Kala,Finland,WILMK,10879,1998-02-10 00:00:00,1998,2,Boston Crab Meat,18,4,12,220,8
+Wilman Kala,Finland,WILMK,10879,1998-02-10 00:00:00,1998,2,Louisiana Fiery Hot Pepper Sauce,21,05,10,210,5
+Wilman Kala,Finland,WILMK,10879,1998-02-10 00:00:00,1998,2,Lakkalikööri,18,10,180
+Cactus Comidas para llevar,Argentina,CACTU,10881,1998-02-11 00:00:00,1998,2,Röd Kaviar,15,10,150
+Save-a-lot Markets,USA,SAVEA,10882,1998-02-11 00:00:00,1998,2,Singaporean Hokkien Fried Mee,14,25,350
+Save-a-lot Markets,USA,SAVEA,10882,1998-02-11 00:00:00,1998,2,Maxilaku,20,20,400
+Save-a-lot Markets,USA,SAVEA,10882,1998-02-11 00:00:00,1998,2,Tourti?,7,45,32,238,4
+Supr?s d?ces,Belgium,SUPRD,10885,1998-02-12 00:00:00,1998,2,Chang,19,20,380
+Supr?s d?ces,Belgium,SUPRD,10885,1998-02-12 00:00:00,1998,2,Guaran?ant?ica,4,5,12,54
+Supr?s d?ces,Belgium,SUPRD,10885,1998-02-12 00:00:00,1998,2,Outback Lager,15,30,450
+Supr?s d?ces,Belgium,SUPRD,10885,1998-02-12 00:00:00,1998,2,Original Frankfurter grüne So?,13,25,325
+Rattlesnake Canyon Grocery,USA,RATTC,10889,1998-02-16 00:00:00,1998,2,Queso Cabrales,21,40,840
+Rattlesnake Canyon Grocery,USA,RATTC,10889,1998-02-16 00:00:00,1998,2,C??de Blaye,263,5,40,10540
+Du monde entier,France,DUMON,10890,1998-02-16 00:00:00,1998,2,Alice Mutton,39,15,585
+Du monde entier,France,DUMON,10890,1998-02-16 00:00:00,1998,2,Sasquatch Ale,14,10,140
+Du monde entier,France,DUMON,10890,1998-02-16 00:00:00,1998,2,Jack's New England Clam Chowder,9,65,14,135,1
+Save-a-lot Markets,USA,SAVEA,10894,1998-02-18 00:00:00,1998,2,Konbu,6,28,168
+Save-a-lot Markets,USA,SAVEA,10894,1998-02-18 00:00:00,1998,2,Gudbrandsdalsost,36,50,1800
+Save-a-lot Markets,USA,SAVEA,10894,1998-02-18 00:00:00,1998,2,Rhönbr?Klosterbier,7,75,120,930
+Ernst Handel,Austria,ERNSH,10895,1998-02-18 00:00:00,1998,2,Guaran?ant?ica,4,5,110,495
+Ernst Handel,Austria,ERNSH,10895,1998-02-18 00:00:00,1998,2,Chartreuse verte,18,45,810
+Ernst Handel,Austria,ERNSH,10895,1998-02-18 00:00:00,1998,2,Boston Crab Meat,18,4,91,1674,4
+Ernst Handel,Austria,ERNSH,10895,1998-02-18 00:00:00,1998,2,Camembert Pierrot,34,100,3400
+Wellington Importadora,Brazil,WELLI,10900,1998-02-20 00:00:00,1998,2,Outback Lager,15,3,45
+White Clover Markets,USA,WHITC,10904,1998-02-24 00:00:00,1998,2,Escargots de Bourgogne,13,25,15,198,75
+White Clover Markets,USA,WHITC,10904,1998-02-24 00:00:00,1998,2,Tarte au sucre,49,3,35,1725,5
+Wellington Importadora,Brazil,WELLI,10905,1998-02-24 00:00:00,1998,2,Chai,18,20,360
+Wolski  Zajazd,Poland,WOLZA,10906,1998-02-25 00:00:00,1998,2,Sirop d'?ble,28,5,15,427,5
+Sp?alit?du monde,France,SPECD,10907,1998-02-25 00:00:00,1998,2,Rhönbr?Klosterbier,7,75,14,108,5
+Reggiani Caseifici,Italy,REGGC,10908,1998-02-26 00:00:00,1998,2,Uncle Bob's Organic Dried Pears,30,20,600
+Reggiani Caseifici,Italy,REGGC,10908,1998-02-26 00:00:00,1998,2,Filo Mix,7,14,98
+Sant?ourmet,Norway,SANTG,10909,1998-02-26 00:00:00,1998,2,Uncle Bob's Organic Dried Pears,30,12,360
+Sant?ourmet,Norway,SANTG,10909,1998-02-26 00:00:00,1998,2,Pavlova,17,45,15,261,75
+Sant?ourmet,Norway,SANTG,10909,1998-02-26 00:00:00,1998,2,Jack's New England Clam Chowder,9,65,5,48,25
+Wilman Kala,Finland,WILMK,10910,1998-02-26 00:00:00,1998,2,Teatime Chocolate Biscuits,9,2,12,110,4
+Wilman Kala,Finland,WILMK,10910,1998-02-26 00:00:00,1998,2,Maxilaku,20,10,200
+Wilman Kala,Finland,WILMK,10910,1998-02-26 00:00:00,1998,2,Sirop d'?ble,28,5,5,142,5
+Queen Cozinha,Brazil,QUEEN,10913,1998-02-26 00:00:00,1998,2,Chef Anton's Cajun Seasoning,22,30,660
+Queen Cozinha,Brazil,QUEEN,10913,1998-02-26 00:00:00,1998,2,Geitost,2,5,40,100
+Queen Cozinha,Brazil,QUEEN,10913,1998-02-26 00:00:00,1998,2,Escargots de Bourgogne,13,25,15,198,75
+Queen Cozinha,Brazil,QUEEN,10914,1998-02-27 00:00:00,1998,2,Flotemysost,21,5,25,537,5
+Tortuga Restaurante,Mexico,TORTU,10915,1998-02-27 00:00:00,1998,2,Alice Mutton,39,10,390
+Tortuga Restaurante,Mexico,TORTU,10915,1998-02-27 00:00:00,1998,2,Geitost,2,5,30,75
+Tortuga Restaurante,Mexico,TORTU,10915,1998-02-27 00:00:00,1998,2,Tourti?,7,45,10,74,5
+Rancho grande,Argentina,RANCH,10916,1998-02-27 00:00:00,1998,2,Pavlova,17,45,6,104,7
+Rancho grande,Argentina,RANCH,10916,1998-02-27 00:00:00,1998,2,Mascarpone Fabioli,32,6,192
+Rancho grande,Argentina,RANCH,10916,1998-02-27 00:00:00,1998,2,Ravioli Angelo,19,5,20,390
+Romero y tomillo,Spain,ROMEY,10917,1998-03-02 00:00:00,1998,3,Nord-Ost Matjeshering,25,89,1,25,89
+Romero y tomillo,Spain,ROMEY,10917,1998-03-02 00:00:00,1998,3,Camembert Pierrot,34,10,340
+Vaffeljernet,Denmark,VAFFE,10921,1998-03-03 00:00:00,1998,3,Steeleye Stout,18,10,180
+Vaffeljernet,Denmark,VAFFE,10921,1998-03-03 00:00:00,1998,3,Vegie-spread,43,9,40,1756
+Supr?s d?ces,Belgium,SUPRD,10930,1998-03-06 00:00:00,1998,3,Sir Rodney's Scones,10,36,360
+Supr?s d?ces,Belgium,SUPRD,10930,1998-03-06 00:00:00,1998,3,Schoggi Schokolade,43,9,25,1097,5
+Supr?s d?ces,Belgium,SUPRD,10930,1998-03-06 00:00:00,1998,3,P? chinois,24,25,600
+Supr?s d?ces,Belgium,SUPRD,10930,1998-03-06 00:00:00,1998,3,Escargots de Bourgogne,13,25,30,397,5
+Richter Supermarkt,Switzerland,RICSU,10931,1998-03-06 00:00:00,1998,3,Konbu,6,42,252
+Richter Supermarkt,Switzerland,RICSU,10931,1998-03-06 00:00:00,1998,3,Ravioli Angelo,19,5,30,585
+Wellington Importadora,Brazil,WELLI,10935,1998-03-09 00:00:00,1998,3,Chai,18,21,378
+Wellington Importadora,Brazil,WELLI,10935,1998-03-09 00:00:00,1998,3,Carnarvon Tigers,62,5,4,250
+Wellington Importadora,Brazil,WELLI,10935,1998-03-09 00:00:00,1998,3,Tunnbröd,9,8,72
+Cactus Comidas para llevar,Argentina,CACTU,10937,1998-03-10 00:00:00,1998,3,Rössle Sauerkraut,45,6,8,364,8
+Cactus Comidas para llevar,Argentina,CACTU,10937,1998-03-10 00:00:00,1998,3,Sasquatch Ale,14,20,280
+QUICK-Stop,Germany,QUICK,10938,1998-03-10 00:00:00,1998,3,Konbu,6,20,120
+QUICK-Stop,Germany,QUICK,10938,1998-03-10 00:00:00,1998,3,Ipoh Coffee,46,24,1104
+QUICK-Stop,Germany,QUICK,10938,1998-03-10 00:00:00,1998,3,Camembert Pierrot,34,49,1666
+QUICK-Stop,Germany,QUICK,10938,1998-03-10 00:00:00,1998,3,Flotemysost,21,5,35,752,5
+Save-a-lot Markets,USA,SAVEA,10941,1998-03-11 00:00:00,1998,3,Gorgonzola Telino,12,5,44,550
+Save-a-lot Markets,USA,SAVEA,10941,1998-03-11 00:00:00,1998,3,Tarte au sucre,49,3,30,1479
+Save-a-lot Markets,USA,SAVEA,10941,1998-03-11 00:00:00,1998,3,Scottish Longbreads,12,5,80,1000
+Save-a-lot Markets,USA,SAVEA,10941,1998-03-11 00:00:00,1998,3,Mozzarella di Giovanni,34,8,50,1740
+Reggiani Caseifici,Italy,REGGC,10942,1998-03-11 00:00:00,1998,3,Maxilaku,20,28,560
+B's Beverages,UK,BSBEV,10943,1998-03-11 00:00:00,1998,3,Konbu,6,15,90
+B's Beverages,UK,BSBEV,10943,1998-03-11 00:00:00,1998,3,Gustaf's Kn?ebröd,21,21,441
+B's Beverages,UK,BSBEV,10943,1998-03-11 00:00:00,1998,3,Spegesild,12,15,180
+Vaffeljernet,Denmark,VAFFE,10946,1998-03-12 00:00:00,1998,3,Ikura,31,25,775
+Vaffeljernet,Denmark,VAFFE,10946,1998-03-12 00:00:00,1998,3,Guaran?ant?ica,4,5,25,112,5
+Vaffeljernet,Denmark,VAFFE,10946,1998-03-12 00:00:00,1998,3,Original Frankfurter grüne So?,13,40,520
+B's Beverages,UK,BSBEV,10947,1998-03-13 00:00:00,1998,3,Raclette Courdavault,55,4,220
+Richter Supermarkt,Switzerland,RICSU,10951,1998-03-16 00:00:00,1998,3,Geitost,2,5,15,37,5
+Richter Supermarkt,Switzerland,RICSU,10951,1998-03-16 00:00:00,1998,3,Jack's New England Clam Chowder,9,65,6,57,9
+Richter Supermarkt,Switzerland,RICSU,10951,1998-03-16 00:00:00,1998,3,Rhönbr?Klosterbier,7,75,50,387,5
+Queen Cozinha,Brazil,QUEEN,10961,1998-03-19 00:00:00,1998,3,Filo Mix,7,6,42
+Queen Cozinha,Brazil,QUEEN,10961,1998-03-19 00:00:00,1998,3,Lakkalikööri,18,60,1080
+QUICK-Stop,Germany,QUICK,10962,1998-03-19 00:00:00,1998,3,Uncle Bob's Organic Dried Pears,30,45,1350
+QUICK-Stop,Germany,QUICK,10962,1998-03-19 00:00:00,1998,3,Konbu,6,77,462
+QUICK-Stop,Germany,QUICK,10962,1998-03-19 00:00:00,1998,3,Perth Pasties,32,8,20,656
+QUICK-Stop,Germany,QUICK,10962,1998-03-19 00:00:00,1998,3,Gudbrandsdalsost,36,9,324
+QUICK-Stop,Germany,QUICK,10962,1998-03-19 00:00:00,1998,3,Lakkalikööri,18,44,792
+Sp?alit?du monde,France,SPECD,10964,1998-03-20 00:00:00,1998,3,Carnarvon Tigers,62,5,6,375
+Sp?alit?du monde,France,SPECD,10964,1998-03-20 00:00:00,1998,3,C??de Blaye,263,5,5,1317,5
+Sp?alit?du monde,France,SPECD,10964,1998-03-20 00:00:00,1998,3,Gudbrandsdalsost,36,10,360
+Chop-suey Chinese,Switzerland,CHOPS,10966,1998-03-20 00:00:00,1998,3,Gravad lax,26,8,208
+Chop-suey Chinese,Switzerland,CHOPS,10966,1998-03-20 00:00:00,1998,3,Gnocchi di nonna Alice,38,12,456
+Chop-suey Chinese,Switzerland,CHOPS,10966,1998-03-20 00:00:00,1998,3,Tarte au sucre,49,3,12,591,6
+Toms Spezialit?n,Germany,TOMSP,10967,1998-03-23 00:00:00,1998,3,Teatime Chocolate Biscuits,9,2,12,110,4
+Toms Spezialit?n,Germany,TOMSP,10967,1998-03-23 00:00:00,1998,3,Maxilaku,20,40,800
+Ernst Handel,Austria,ERNSH,10968,1998-03-23 00:00:00,1998,3,Queso Manchego La Pastora,38,30,1140
+Ernst Handel,Austria,ERNSH,10968,1998-03-23 00:00:00,1998,3,Guaran?ant?ica,4,5,30,135
+Ernst Handel,Austria,ERNSH,10968,1998-03-23 00:00:00,1998,3,Wimmers gute Semmelknödel,33,25,4,133
+Com?io Mineiro,Brazil,COMMI,10969,1998-03-23 00:00:00,1998,3,Spegesild,12,9,108
+Split Rail Beer & Ale,USA,SPLIR,10974,1998-03-25 00:00:00,1998,3,Vegie-spread,43,9,10,439
+Ernst Handel,Austria,ERNSH,10979,1998-03-26 00:00:00,1998,3,Uncle Bob's Organic Dried Pears,30,18,540
+Ernst Handel,Austria,ERNSH,10979,1998-03-26 00:00:00,1998,3,Queso Manchego La Pastora,38,20,760
+Ernst Handel,Austria,ERNSH,10979,1998-03-26 00:00:00,1998,3,Guaran?ant?ica,4,5,80,360
+Ernst Handel,Austria,ERNSH,10979,1998-03-26 00:00:00,1998,3,Schoggi Schokolade,43,9,30,1317
+Ernst Handel,Austria,ERNSH,10979,1998-03-26 00:00:00,1998,3,Gorgonzola Telino,12,5,24,300
+Ernst Handel,Austria,ERNSH,10979,1998-03-26 00:00:00,1998,3,Vegie-spread,43,9,35,1536,5
+Save-a-lot Markets,USA,SAVEA,10983,1998-03-27 00:00:00,1998,3,Konbu,6,84,504
+Save-a-lot Markets,USA,SAVEA,10983,1998-03-27 00:00:00,1998,3,Ravioli Angelo,19,5,15,292,5
+Save-a-lot Markets,USA,SAVEA,10984,1998-03-30 00:00:00,1998,3,Pavlova,17,45,55,959,75
+Save-a-lot Markets,USA,SAVEA,10984,1998-03-30 00:00:00,1998,3,Guaran?ant?ica,4,5,20,90
+Save-a-lot Markets,USA,SAVEA,10984,1998-03-30 00:00:00,1998,3,Inlagd Sill,19,40,760
+Eastern Connection,UK,EASTC,10987,1998-03-31 00:00:00,1998,3,Uncle Bob's Organic Dried Pears,30,60,1800
+Eastern Connection,UK,EASTC,10987,1998-03-31 00:00:00,1998,3,Ipoh Coffee,46,6,276
+Eastern Connection,UK,EASTC,10987,1998-03-31 00:00:00,1998,3,Mozzarella di Giovanni,34,8,20,696
+Rattlesnake Canyon Grocery,USA,RATTC,10988,1998-03-31 00:00:00,1998,3,Uncle Bob's Organic Dried Pears,30,60,1800
+Rattlesnake Canyon Grocery,USA,RATTC,10988,1998-03-31 00:00:00,1998,3,Tarte au sucre,49,3,40,1972
+Que Del?a,Brazil,QUEDE,10989,1998-03-31 00:00:00,1998,3,Grandma's Boysenberry Spread,25,40,1000
+Que Del?a,Brazil,QUEDE,10989,1998-03-31 00:00:00,1998,3,Queso Cabrales,21,15,315
+Que Del?a,Brazil,QUEDE,10989,1998-03-31 00:00:00,1998,3,Jack's New England Clam Chowder,9,65,4,38,6
+Ernst Handel,Austria,ERNSH,10990,1998-04-01 00:00:00,1998,4,Sir Rodney's Scones,10,65,650
+Ernst Handel,Austria,ERNSH,10990,1998-04-01 00:00:00,1998,4,Sasquatch Ale,14,60,840
+Ernst Handel,Austria,ERNSH,10990,1998-04-01 00:00:00,1998,4,P? chinois,24,65,1560
+Ernst Handel,Austria,ERNSH,10990,1998-04-01 00:00:00,1998,4,Sirop d'?ble,28,5,66,1881
+QUICK-Stop,Germany,QUICK,10991,1998-04-01 00:00:00,1998,4,Chang,19,50,950
+QUICK-Stop,Germany,QUICK,10991,1998-04-01 00:00:00,1998,4,Outback Lager,15,20,300
+QUICK-Stop,Germany,QUICK,10991,1998-04-01 00:00:00,1998,4,Lakkalikööri,18,90,1620
+The Big Cheese,USA,THEBI,10992,1998-04-01 00:00:00,1998,4,Mozzarella di Giovanni,34,8,2,69,6
+Vaffeljernet,Denmark,VAFFE,10994,1998-04-02 00:00:00,1998,4,Raclette Courdavault,55,18,990
+QUICK-Stop,Germany,QUICK,10996,1998-04-02 00:00:00,1998,4,Singaporean Hokkien Fried Mee,14,40,560
+Wolski  Zajazd,Poland,WOLZA,10998,1998-04-03 00:00:00,1998,4,Guaran?ant?ica,4,5,12,54
+Wolski  Zajazd,Poland,WOLZA,10998,1998-04-03 00:00:00,1998,4,Sirop d'?ble,28,5,7,199,5
+Wolski  Zajazd,Poland,WOLZA,10998,1998-04-03 00:00:00,1998,4,Longlife Tofu,10,20,200
+Wolski  Zajazd,Poland,WOLZA,10998,1998-04-03 00:00:00,1998,4,Rhönbr?Klosterbier,7,75,30,232,5
+Rattlesnake Canyon Grocery,USA,RATTC,11000,1998-04-06 00:00:00,1998,4,Chef Anton's Cajun Seasoning,22,25,550
+Rattlesnake Canyon Grocery,USA,RATTC,11000,1998-04-06 00:00:00,1998,4,Guaran?ant?ica,4,5,30,135
+Rattlesnake Canyon Grocery,USA,RATTC,11000,1998-04-06 00:00:00,1998,4,Original Frankfurter grüne So?,13,30,390
+Save-a-lot Markets,USA,SAVEA,11002,1998-04-06 00:00:00,1998,4,Konbu,6,56,336
+Save-a-lot Markets,USA,SAVEA,11002,1998-04-06 00:00:00,1998,4,Steeleye Stout,18,15,270
+Save-a-lot Markets,USA,SAVEA,11002,1998-04-06 00:00:00,1998,4,Singaporean Hokkien Fried Mee,14,24,336
+Save-a-lot Markets,USA,SAVEA,11002,1998-04-06 00:00:00,1998,4,P? chinois,24,40,960
+The Cracker Box,USA,THECR,11003,1998-04-06 00:00:00,1998,4,Chai,18,4,72
+The Cracker Box,USA,THECR,11003,1998-04-06 00:00:00,1998,4,Boston Crab Meat,18,4,10,184
+The Cracker Box,USA,THECR,11003,1998-04-06 00:00:00,1998,4,Filo Mix,7,10,70
+Wilman Kala,Finland,WILMK,11005,1998-04-07 00:00:00,1998,4,Chai,18,2,36
+Wilman Kala,Finland,WILMK,11005,1998-04-07 00:00:00,1998,4,Raclette Courdavault,55,10,550
+Ernst Handel,Austria,ERNSH,11008,1998-04-08 00:00:00,1998,4,Rössle Sauerkraut,45,6,70,3192
+Ernst Handel,Austria,ERNSH,11008,1998-04-08 00:00:00,1998,4,Sasquatch Ale,14,90,1260
+Ernst Handel,Austria,ERNSH,11008,1998-04-08 00:00:00,1998,4,Flotemysost,21,5,21,451,5
+Reggiani Caseifici,Italy,REGGC,11010,1998-04-09 00:00:00,1998,4,Uncle Bob's Organic Dried Pears,30,20,600
+Reggiani Caseifici,Italy,REGGC,11010,1998-04-09 00:00:00,1998,4,Guaran?ant?ica,4,5,10,45
+Romero y tomillo,Spain,ROMEY,11013,1998-04-09 00:00:00,1998,4,Tunnbröd,9,10,90
+Romero y tomillo,Spain,ROMEY,11013,1998-04-09 00:00:00,1998,4,Singaporean Hokkien Fried Mee,14,4,56
+Romero y tomillo,Spain,ROMEY,11013,1998-04-09 00:00:00,1998,4,Rogede sild,9,5,20,190
+Romero y tomillo,Spain,ROMEY,11013,1998-04-09 00:00:00,1998,4,Scottish Longbreads,12,5,2,25
+Sant?ourmet,Norway,SANTG,11015,1998-04-10 00:00:00,1998,4,Nord-Ost Matjeshering,25,89,15,388,35
+Sant?ourmet,Norway,SANTG,11015,1998-04-10 00:00:00,1998,4,Original Frankfurter grüne So?,13,18,234
+Ernst Handel,Austria,ERNSH,11017,1998-04-13 00:00:00,1998,4,Aniseed Syrup,10,25,250
+Ernst Handel,Austria,ERNSH,11017,1998-04-13 00:00:00,1998,4,Raclette Courdavault,55,110,6050
+Ernst Handel,Austria,ERNSH,11017,1998-04-13 00:00:00,1998,4,Outback Lager,15,30,450
+Rancho grande,Argentina,RANCH,11019,1998-04-13 00:00:00,1998,4,Spegesild,12,3,36
+Rancho grande,Argentina,RANCH,11019,1998-04-13 00:00:00,1998,4,Maxilaku,20,2,40
+QUICK-Stop,Germany,QUICK,11021,1998-04-14 00:00:00,1998,4,Chang,19,11,209
+QUICK-Stop,Germany,QUICK,11021,1998-04-14 00:00:00,1998,4,Sir Rodney's Marmalade,81,15,1215
+QUICK-Stop,Germany,QUICK,11021,1998-04-14 00:00:00,1998,4,Gumb?Gummib?hen,31,23,63,1967,49
+QUICK-Stop,Germany,QUICK,11021,1998-04-14 00:00:00,1998,4,Manjimup Dried Apples,53,44,2332
+QUICK-Stop,Germany,QUICK,11021,1998-04-14 00:00:00,1998,4,Mozzarella di Giovanni,34,8,35,1218
+B's Beverages,UK,BSBEV,11023,1998-04-14 00:00:00,1998,4,Uncle Bob's Organic Dried Pears,30,4,120
+B's Beverages,UK,BSBEV,11023,1998-04-14 00:00:00,1998,4,Ipoh Coffee,46,30,1380
+Eastern Connection,UK,EASTC,11024,1998-04-15 00:00:00,1998,4,Gumb?Gummib?hen,31,23,12,374,76
+Eastern Connection,UK,EASTC,11024,1998-04-15 00:00:00,1998,4,Geitost,2,5,30,75
+Eastern Connection,UK,EASTC,11024,1998-04-15 00:00:00,1998,4,Louisiana Fiery Hot Pepper Sauce,21,05,21,442,05
+Eastern Connection,UK,EASTC,11024,1998-04-15 00:00:00,1998,4,Flotemysost,21,5,50,1075
+Wartian Herkku,Finland,WARTH,11025,1998-04-15 00:00:00,1998,4,Chai,18,10,180
+Wartian Herkku,Finland,WARTH,11025,1998-04-15 00:00:00,1998,4,Konbu,6,20,120
+Chop-suey Chinese,Switzerland,CHOPS,11029,1998-04-16 00:00:00,1998,4,Gnocchi di nonna Alice,38,20,760
+Chop-suey Chinese,Switzerland,CHOPS,11029,1998-04-16 00:00:00,1998,4,Vegie-spread,43,9,12,526,8
+Save-a-lot Markets,USA,SAVEA,11030,1998-04-17 00:00:00,1998,4,Chang,19,100,1900
+Save-a-lot Markets,USA,SAVEA,11030,1998-04-17 00:00:00,1998,4,Chef Anton's Gumbo Mix,21,35,70,1494,5
+Save-a-lot Markets,USA,SAVEA,11030,1998-04-17 00:00:00,1998,4,Thüringer Rostbratwurst,123,79,60,7427,4
+Save-a-lot Markets,USA,SAVEA,11030,1998-04-17 00:00:00,1998,4,Raclette Courdavault,55,100,5500
+Save-a-lot Markets,USA,SAVEA,11031,1998-04-17 00:00:00,1998,4,Chai,18,45,810
+Save-a-lot Markets,USA,SAVEA,11031,1998-04-17 00:00:00,1998,4,Konbu,6,80,480
+Save-a-lot Markets,USA,SAVEA,11031,1998-04-17 00:00:00,1998,4,Guaran?ant?ica,4,5,21,94,5
+Save-a-lot Markets,USA,SAVEA,11031,1998-04-17 00:00:00,1998,4,Wimmers gute Semmelknödel,33,25,20,665
+Save-a-lot Markets,USA,SAVEA,11031,1998-04-17 00:00:00,1998,4,Flotemysost,21,5,16,344
+White Clover Markets,USA,WHITC,11032,1998-04-17 00:00:00,1998,4,Inlagd Sill,19,35,665
+White Clover Markets,USA,WHITC,11032,1998-04-17 00:00:00,1998,4,C??de Blaye,263,5,25,6587,5
+White Clover Markets,USA,WHITC,11032,1998-04-17 00:00:00,1998,4,Raclette Courdavault,55,30,1650
+Richter Supermarkt,Switzerland,RICSU,11033,1998-04-17 00:00:00,1998,4,Perth Pasties,32,8,70,2296
+Richter Supermarkt,Switzerland,RICSU,11033,1998-04-17 00:00:00,1998,4,Gudbrandsdalsost,36,36,1296
+Supr?s d?ces,Belgium,SUPRD,11035,1998-04-20 00:00:00,1998,4,Chai,18,10,180
+Supr?s d?ces,Belgium,SUPRD,11035,1998-04-20 00:00:00,1998,4,Steeleye Stout,18,60,1080
+Supr?s d?ces,Belgium,SUPRD,11035,1998-04-20 00:00:00,1998,4,Singaporean Hokkien Fried Mee,14,30,420
+Supr?s d?ces,Belgium,SUPRD,11035,1998-04-20 00:00:00,1998,4,Tourti?,7,45,10,74,5
+Drachenblut Delikatessen,Germany,DRACD,11036,1998-04-20 00:00:00,1998,4,Konbu,6,7,42
+Drachenblut Delikatessen,Germany,DRACD,11036,1998-04-20 00:00:00,1998,4,Raclette Courdavault,55,30,1650
+Supr?s d?ces,Belgium,SUPRD,11038,1998-04-21 00:00:00,1998,4,Boston Crab Meat,18,4,5,92
+Supr?s d?ces,Belgium,SUPRD,11038,1998-04-21 00:00:00,1998,4,Filo Mix,7,2,14
+Supr?s d?ces,Belgium,SUPRD,11038,1998-04-21 00:00:00,1998,4,Flotemysost,21,5,30,645
+Chop-suey Chinese,Switzerland,CHOPS,11041,1998-04-22 00:00:00,1998,4,Chang,19,30,570
+Chop-suey Chinese,Switzerland,CHOPS,11041,1998-04-22 00:00:00,1998,4,Vegie-spread,43,9,30,1317
+Com?io Mineiro,Brazil,COMMI,11042,1998-04-22 00:00:00,1998,4,Gula Malacca,19,45,15,291,75
+Com?io Mineiro,Brazil,COMMI,11042,1998-04-22 00:00:00,1998,4,Sirop d'?ble,28,5,4,114
+Sp?alit?du monde,France,SPECD,11043,1998-04-22 00:00:00,1998,4,Queso Cabrales,21,10,210
+Wolski  Zajazd,Poland,WOLZA,11044,1998-04-23 00:00:00,1998,4,Tarte au sucre,49,3,12,591,6
+Die Wandernde Kuh,Germany,WANDK,11046,1998-04-23 00:00:00,1998,4,Queso Manchego La Pastora,38,20,760
+Die Wandernde Kuh,Germany,WANDK,11046,1998-04-23 00:00:00,1998,4,Mascarpone Fabioli,32,15,480
+Die Wandernde Kuh,Germany,WANDK,11046,1998-04-23 00:00:00,1998,4,Steeleye Stout,18,18,324
+Eastern Connection,UK,EASTC,11047,1998-04-24 00:00:00,1998,4,Chai,18,25,450
+Eastern Connection,UK,EASTC,11047,1998-04-24 00:00:00,1998,4,Chef Anton's Gumbo Mix,21,35,30,640,5
+Cactus Comidas para llevar,Argentina,CACTU,11054,1998-04-28 00:00:00,1998,4,Geitost,2,5,10,25
+Cactus Comidas para llevar,Argentina,CACTU,11054,1998-04-28 00:00:00,1998,4,Laughing Lumberjack Lager,14,20,280
+Eastern Connection,UK,EASTC,11056,1998-04-28 00:00:00,1998,4,Uncle Bob's Organic Dried Pears,30,40,1200
+Eastern Connection,UK,EASTC,11056,1998-04-28 00:00:00,1998,4,P? chinois,24,35,840
+Eastern Connection,UK,EASTC,11056,1998-04-28 00:00:00,1998,4,Camembert Pierrot,34,50,1700
+Ricardo Adocicados,Brazil,RICAR,11059,1998-04-29 00:00:00,1998,4,Konbu,6,30,180
+Ricardo Adocicados,Brazil,RICAR,11059,1998-04-29 00:00:00,1998,4,Alice Mutton,39,12,468
+Ricardo Adocicados,Brazil,RICAR,11059,1998-04-29 00:00:00,1998,4,Camembert Pierrot,34,35,1190
+Reggiani Caseifici,Italy,REGGC,11062,1998-04-30 00:00:00,1998,4,Perth Pasties,32,8,10,328
+Reggiani Caseifici,Italy,REGGC,11062,1998-04-30 00:00:00,1998,4,Outback Lager,15,12,180
+Save-a-lot Markets,USA,SAVEA,11064,1998-05-01 00:00:00,1998,5,Alice Mutton,39,77,3003
+Save-a-lot Markets,USA,SAVEA,11064,1998-05-01 00:00:00,1998,5,Jack's New England Clam Chowder,9,65,12,115,8
+Save-a-lot Markets,USA,SAVEA,11064,1998-05-01 00:00:00,1998,5,Perth Pasties,32,8,25,820
+Save-a-lot Markets,USA,SAVEA,11064,1998-05-01 00:00:00,1998,5,P? chinois,24,4,96
+Save-a-lot Markets,USA,SAVEA,11064,1998-05-01 00:00:00,1998,5,Scottish Longbreads,12,5,55,687,5
+White Clover Markets,USA,WHITC,11066,1998-05-01 00:00:00,1998,5,Pavlova,17,45,3,52,35
+White Clover Markets,USA,WHITC,11066,1998-05-01 00:00:00,1998,5,Teatime Chocolate Biscuits,9,2,42,386,4
+White Clover Markets,USA,WHITC,11066,1998-05-01 00:00:00,1998,5,Sasquatch Ale,14,35,490
+Drachenblut Delikatessen,Germany,DRACD,11067,1998-05-04 00:00:00,1998,5,Jack's New England Clam Chowder,9,65,9,86,85
+Queen Cozinha,Brazil,QUEEN,11068,1998-05-04 00:00:00,1998,5,Rössle Sauerkraut,45,6,8,364,8
+Queen Cozinha,Brazil,QUEEN,11068,1998-05-04 00:00:00,1998,5,Ipoh Coffee,46,36,1656
+Queen Cozinha,Brazil,QUEEN,11068,1998-05-04 00:00:00,1998,5,Original Frankfurter grüne So?,13,28,364
+Tortuga Restaurante,Mexico,TORTU,11069,1998-05-04 00:00:00,1998,5,Chartreuse verte,18,20,360
+Ernst Handel,Austria,ERNSH,11072,1998-05-05 00:00:00,1998,5,Chang,19,8,152
+Ernst Handel,Austria,ERNSH,11072,1998-05-05 00:00:00,1998,5,Jack's New England Clam Chowder,9,65,40,386
+Ernst Handel,Austria,ERNSH,11072,1998-05-05 00:00:00,1998,5,Valkoinen suklaa,16,25,22,357,5
+Ernst Handel,Austria,ERNSH,11072,1998-05-05 00:00:00,1998,5,Wimmers gute Semmelknödel,33,25,130,4322,5
+Simons bistro,Denmark,SIMOB,11074,1998-05-06 00:00:00,1998,5,Pavlova,17,45,14,244,3
+Richter Supermarkt,Switzerland,RICSU,11075,1998-05-06 00:00:00,1998,5,Chang,19,10,190
+Richter Supermarkt,Switzerland,RICSU,11075,1998-05-06 00:00:00,1998,5,Spegesild,12,30,360
+Richter Supermarkt,Switzerland,RICSU,11075,1998-05-06 00:00:00,1998,5,Lakkalikööri,18,2,36
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Chang,19,24,456
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Aniseed Syrup,10,4,40
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Chef Anton's Cajun Seasoning,22,1,22
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Grandma's Boysenberry Spread,25,1,25
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Uncle Bob's Organic Dried Pears,30,1,30
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Northwoods Cranberry Sauce,40,2,80
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Ikura,31,1,31
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Queso Manchego La Pastora,38,2,76
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Konbu,6,4,24
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Tofu,23,25,1,23,25
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Pavlova,17,45,2,34,9
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Sir Rodney's Marmalade,81,1,81
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Tunnbröd,9,2,18
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Mascarpone Fabioli,32,1,32
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Chartreuse verte,18,2,36
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Jack's New England Clam Chowder,9,65,3,28,95
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Spegesild,12,3,36
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Filo Mix,7,2,14
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,P? chinois,24,2,48
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Camembert Pierrot,34,2,68
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Wimmers gute Semmelknödel,33,25,2,66,5
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Louisiana Hot Spiced Okra,17,1,17
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Röd Kaviar,15,2,30
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Rhönbr?Klosterbier,7,75,4,31
+Rattlesnake Canyon Grocery,USA,RATTC,11077,1998-05-06 00:00:00,1998,5,Original Frankfurter grüne So?,13,2,26
+NULL,Australia,AW26J,11078,2020-07-23 00:00:00,2020,7,Schoggi Schokolade,14,14,196
+NULL,Australia,AW37E,11079,2020-07-23 00:00:00,2020,7,Sir Rodney's Marmalade,9,8,1,9,8
+NULL,Australia,AW31R,11080,2020-07-23 00:00:00,2020,7,Ikura,34,8,14,487,2
+NULL,Australia,AW11C,11081,2020-07-23 00:00:00,2020,7,Gravad lax,18,6,2,37,2
+NULL,Australia,AW19E,11082,2020-07-23 00:00:00,2020,7,Röd Kaviar,42,4,8,339,2
+NULL,Australia,AW22J,11083,2020-07-23 00:00:00,2020,7,P? chinois,7,7,16,123,2
+NULL,Australia,AW8J ,11084,2020-07-23 00:00:00,2020,7,Aniseed Syrup,42,4,3,127,2
+NULL,Australia,AW40M,11085,2020-07-23 00:00:00,2020,7,Louisiana Hot Spiced Okra,16,8,3,50,4
+NULL,Australia,AW32R,11086,2020-07-23 00:00:00,2020,7,Konbu,16,8,18,302,4
+NULL,Australia,AW25S,11087,2020-07-23 00:00:00,2020,7,Ravioli Angelo,15,6,5,78
+NULL,Australia,AW22Z,11088,2020-07-23 00:00:00,2020,7,Rössle Sauerkraut,9,8,1,9,8
+NULL,Australia,AW22C,11089,2020-07-23 00:00:00,2020,7,Louisiana Hot Spiced Okra,34,8,14,487,2
+NULL,United States,AW61L,11090,2020-07-23 00:00:00,2020,7,Grandma's Boysenberry Spread,18,6,2,37,2
+NULL,United States,AW43I,11091,2020-07-23 00:00:00,2020,7,Perth Pasties,42,4,8,339,2
+NULL,United States,AW34S,11092,2020-07-23 00:00:00,2020,7,Aniseed Syrup,7,7,16,123,2
+NULL,United States,AW01C,11093,2020-07-23 00:00:00,2020,7,Carnarvon Tigers,42,4,3,127,2
+NULL,United States,AW29W,11094,2020-07-23 00:00:00,2020,7,Sirop d'?ble,16,8,3,50,4
+NULL,Australia,AW39S,11095,2020-07-23 00:00:00,2020,7,Escargots de Bourgogne,16,8,18,302,4
+NULL,Australia,AW32C,11096,2020-07-23 00:00:00,2020,7,Inlagd Sill,15,6,5,78

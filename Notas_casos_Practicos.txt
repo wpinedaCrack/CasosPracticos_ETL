@@ -1,0 +1,11 @@
+Copiar Tabla en Archivo Plano
+
+BCP [AdventureWorksDW2016].[DBO].DimCustomer out "D:\UdemyFull\BaseDatos\CASOS_PRACTICOS_ETL\BulCopy_Program\Capitulo_1\Cliente.txt" -T -c
+
+user01  Wilpica7185467*   Samupica7185467*
+
+--EJECUTANDO LA INSTRUCCION BCP DESDE EL CMD CON PASSWORD COMO PARAMETRO
+BCP [AdventureWorksDW2016].[DBO].[DimGeography] OUT "D:\UdemyFull\BaseDatos\CASOS_PRACTICOS_ETL\BulCopy_Program\Capitulo_2\Geografia.txt" -c -UUSER01 -SDESKTOP-8RKHAGF -PSamupica7185467* -t,
+
+
+BCP [AdventureWorksDW2016].[DBO].[DimCurrency] OUT "D:\UdemyFull\BaseDatos\CASOS_PRACTICOS_ETL\BulCopy_Program\Capitulo_2\Moneda.txt" -c -UUSER01 -SDESKTOP-8RKHAGF -PSamupica7185467* -t,

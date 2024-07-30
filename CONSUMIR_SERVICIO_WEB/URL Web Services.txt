@@ -1,0 +1,8 @@
+http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
+------------------------------------------------
+
+
+
+
+https://footballpool.dataaccess.eu/info.wso?WSDL
+----------------------------------------------------------

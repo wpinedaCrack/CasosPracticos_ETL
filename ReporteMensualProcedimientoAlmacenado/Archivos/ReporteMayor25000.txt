@@ -1,0 +1,7 @@
+CompanyName,Country,TOTAL
+Ernst Handel,Austria,107440,68
+White Clover Markets,USA,29073,45
+Rattlesnake Canyon Grocery,USA,45196,3
+Queen Cozinha,Brazil,30226,1
+Save-a-lot Markets,USA,109517,49
+QUICK-Stop,Germany,112105,79

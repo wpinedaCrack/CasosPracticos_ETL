@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<Catalog>
+  <Persona PersonaID="ALFKI">
+    <Nombre>Maria Anders</Nombre>
+    <Direccion>Obere Str. 57</Direccion>
+    <Ciudad>Berlin</Ciudad>
+    <CodigoPostal>12209</CodigoPostal>
+    <Telefono>030-0074321</Telefono>
+  </Persona>
+  <Persona PersonaID="ANATR">
+    <Nombre>Ana Trujillo</Nombre>
+    <Direccion>Avda. de la Constitución 2222</Direccion>
+    <Ciudad>México D.F.</Ciudad>
+    <CodigoPostal>05021</CodigoPostal>
+    <Telefono>(5) 555-4729</Telefono>
+  </Persona>
+  <Persona PersonaID="ANTON">
+    <Nombre>Antonio Moreno</Nombre>
+    <Direccion>Mataderos  2312</Direccion>
+    <Ciudad>México D.F.</Ciudad>
+    <CodigoPostal>05023</CodigoPostal>
+    <Telefono>(5) 555-3932</Telefono>
+  </Persona>
+  <Persona PersonaID="AROUT">
+    <Nombre>Thomas Hardy</Nombre>
+    <Direccion>120 Hanover Sq.</Direccion>
+    <Ciudad>London</Ciudad>
+    <CodigoPostal>WA1 1DP</CodigoPostal>
+    <Telefono>(171) 555-7788</Telefono>
+  </Persona>
+  <Persona PersonaID="BERGS">
+    <Nombre>Christina Berglund</Nombre>
+    <Direccion>Berguvsvägen  8</Direccion>
+    <Ciudad>Luleå</Ciudad>
+    <CodigoPostal>S-958 22</CodigoPostal>
+    <Telefono>0921-12 34 65</Telefono>
+  </Persona>
+  <Persona PersonaID="BLAUS">
+    <Nombre>Hanna Moos</Nombre>
+    <Direccion>Forsterstr. 57</Direccion>
+    <Ciudad>Mannheim</Ciudad>
+    <CodigoPostal>68306</CodigoPostal>
+    <Telefono>0621-08460</Telefono>
+  </Persona>
+  <Persona PersonaID="BLONP">
+    <Nombre>Frédérique Citeaux</Nombre>
+    <Direccion>24, place Kléber</Direccion>
+    <Ciudad>Strasbourg</Ciudad>
+    <CodigoPostal>67000</CodigoPostal>
+    <Telefono>88.60.15.31</Telefono>
+  </Persona>
+  <Persona PersonaID="BOLID">
+    <Nombre>Martín Sommer</Nombre>
+    <Direccion>C/ Araquil, 67</Direccion>
+    <Ciudad>Madrid</Ciudad>
+    <CodigoPostal>28023</CodigoPostal>
+    <Telefono>(91) 555 22 82</Telefono>
+  </Persona>
+  <Persona PersonaID="BONAP">
+    <Nombre>Laurence Lebihan</Nombre>
+    <Direccion>12, rue des Bouchers</Direccion>
+    <Ciudad>Marseille</Ciudad>
+    <CodigoPostal>13008</CodigoPostal>
+    <Telefono>91.24.45.40</Telefono>
+  </Persona>
+  <Persona PersonaID="BOTTM">
+    <Nombre>Elizabeth Lincoln</Nombre>
+    <Direccion>23 Tsawassen Blvd.</Direccion>
+    <Ciudad>Tsawassen</Ciudad>
+    <CodigoPostal>T2F 8M4</CodigoPostal>
+    <Telefono>(604) 555-4729</Telefono>
+  </Persona>
+  <Persona PersonaID="BSBEV">
+    <Nombre>Victoria Ashworth</Nombre>
+    <Direccion>Fauntleroy Circus</Direccion>
+    <Ciudad>London</Ciudad>
+    <CodigoPostal>EC2 5NT</CodigoPostal>
+    <Telefono>(171) 555-1212</Telefono>
+  </Persona>
+  <Persona PersonaID="CACTU">
+    <Nombre>Patricio Simpson</Nombre>
+    <Direccion>Cerrito 333</Direccion>
+    <Ciudad>Buenos Aires</Ciudad>
+    <CodigoPostal>1010</CodigoPostal>
+    <Telefono>(1) 135-5555</Telefono>
+  </Persona>
+  <Persona PersonaID="CENTC">
+    <Nombre>Francisco Chang</Nombre>
+    <Direccion>Sierras de Granada 9993</Direccion>
+    <Ciudad>México D.F.</Ciudad>
+    <CodigoPostal>05022</CodigoPostal>
+    <Telefono>(5) 555-3392</Telefono>
+  </Persona>
+  <Persona PersonaID="CHOPS">
+    <Nombre>Yang Wang</Nombre>
+    <Direccion>Hauptstr. 29</Direccion>
+    <Ciudad>Bern</Ciudad>
+    <CodigoPostal>3012</CodigoPostal>
+    <Telefono>0452-076545</Telefono>
+  </Persona>
+  <Persona PersonaID="COMMI">
+    <Nombre>Pedro Afonso</Nombre>
+    <Direccion>Av. dos Lusíadas, 23</Direccion>
+    <Ciudad>Sao Paulo</Ciudad>
+    <CodigoPostal>05432-043</CodigoPostal>
+    <Telefono>(11) 555-7647</Telefono>
+  </Persona>
+  <Persona PersonaID="CONSH">
+    <Nombre>Elizabeth Brown</Nombre>
+    <Direccion>Berkeley Gardens 12  Brewery</Direccion>
+    <Ciudad>London</Ciudad>
+    <CodigoPostal>WX1 6LT</CodigoPostal>
+    <Telefono>(171) 555-2282</Telefono>
+  </Persona>
+  <Persona PersonaID="DRACD">
+    <Nombre>Sven Ottlieb</Nombre>
+    <Direccion>Walserweg 21</Direccion>
+    <Ciudad>Aachen</Ciudad>
+    <CodigoPostal>52066</CodigoPostal>
+    <Telefono>0241-039123</Telefono>
+  </Persona>
+  <Persona PersonaID="DUMON">
+    <Nombre>Janine Labrune</Nombre>
+    <Direccion>67, rue des Cinquante Otages</Direccion>
+    <Ciudad>Nantes</Ciudad>
+    <CodigoPostal>44000</CodigoPostal>
+    <Telefono>40.67.88.88</Telefono>
+  </Persona>
+  <Persona PersonaID="EASTC">
+    <Nombre>Ann Devon</Nombre>
+    <Direccion>35 King George</Direccion>
+    <Ciudad>London</Ciudad>
+    <CodigoPostal>WX3 6FW</CodigoPostal>
+    <Telefono>(171) 555-0297</Telefono>
+  </Persona>
+  <Persona PersonaID="ERNSH">
+    <Nombre>Roland Mendel</Nombre>
+    <Direccion>Kirchgasse 6</Direccion>
+    <Ciudad>Graz</Ciudad>
+    <CodigoPostal>8010</CodigoPostal>
+    <Telefono>7675-3425</Telefono>
+  </Persona>
+  <Persona PersonaID="FAMIA">
+    <Nombre>Aria Cruz</Nombre>
+    <Direccion>Rua Orós, 92</Direccion>
+    <Ciudad>Sao Paulo</Ciudad>
+    <CodigoPostal>05442-030</CodigoPostal>
+    <Telefono>(11) 555-9857</Telefono>
+  </Persona>
+  <Persona PersonaID="FISSA">
+    <Nombre>Diego Roel</Nombre>
+    <Direccion>C/ Moralzarzal, 86</Direccion>
+    <Ciudad>Madrid</Ciudad>
+    <CodigoPostal>28034</CodigoPostal>
+    <Telefono>(91) 555 94 44</Telefono>
+  </Persona>
+  <Persona PersonaID="FOLIG">
+    <Nombre>Martine Rancé</Nombre>
+    <Direccion>184, chaussée de Tournai</Direccion>
+    <Ciudad>Lille</Ciudad>
+    <CodigoPostal>59000</CodigoPostal>
+    <Telefono>20.16.10.16</Telefono>
+  </Persona>
+  <Persona PersonaID="FOLKO">
+    <Nombre>Maria Larsson</Nombre>
+    <Direccion>Åkergatan 24</Direccion>
+    <Ciudad>Bräcke</Ciudad>
+    <CodigoPostal>S-844 67</CodigoPostal>
+    <Telefono>0695-34 67 21</Telefono>
+  </Persona>
+  <Persona PersonaID="FRANK">
+    <Nombre>Peter Franken</Nombre>
+    <Direccion>Berliner Platz 43</Direccion>
+    <Ciudad>München</Ciudad>
+    <CodigoPostal>80805</CodigoPostal>
+    <Telefono>089-0877310</Telefono>
+  </Persona>
+  <Persona PersonaID="FRANR">
+    <Nombre>Carine Schmitt</Nombre>
+    <Direccion>54, rue Royale</Direccion>
+    <Ciudad>Nantes</Ciudad>
+    <CodigoPostal>44000</CodigoPostal>
+    <Telefono>40.32.21.21</Telefono>
+  </Persona>
+  <Persona PersonaID="FRANS">
+    <Nombre>Paolo Accorti</Nombre>
+    <Direccion>Via Monte Bianco 34</Direccion>
+    <Ciudad>Torino</Ciudad>
+    <CodigoPostal>10100</CodigoPostal>
+    <Telefono>011-4988260</Telefono>
+  </Persona>
+  <Persona PersonaID="FURIB">
+    <Nombre>Lino Rodriguez</Nombre>
+    <Direccion>Jardim das rosas n. 32</Direccion>
+    <Ciudad>Lisboa</Ciudad>
+    <CodigoPostal>1675</CodigoPostal>
+    <Telefono>(1) 354-2534</Telefono>
+  </Persona>
+  <Persona PersonaID="GALED">
+    <Nombre>Eduardo Saavedra</Nombre>
+    <Direccion>Rambla de Cataluña, 23</Direccion>
+    <Ciudad>Barcelona</Ciudad>
+    <CodigoPostal>08022</CodigoPostal>
+    <Telefono>(93) 203 4560</Telefono>
+  </Persona>
+  <Persona PersonaID="GODOS">
+    <Nombre>José Pedro Freyre</Nombre>
+    <Direccion>C/ Romero, 33</Direccion>
+    <Ciudad>Sevilla</Ciudad>
+    <CodigoPostal>41101</CodigoPostal>
+    <Telefono>(95) 555 82 82</Telefono>
+  </Persona>
+  <Persona PersonaID="GOURL">
+    <Nombre>André Fonseca</Nombre>
+    <Direccion>Av. Brasil, 442</Direccion>
+    <Ciudad>Campinas</Ciudad>
+    <CodigoPostal>04876-786</CodigoPostal>
+    <Telefono>(11) 555-9482</Telefono>
+  </Persona>
+  <Persona PersonaID="GREAL">
+    <Nombre>Howard Snyder</Nombre>
+    <Direccion>2732 Baker Blvd.</Direccion>
+    <Ciudad>Eugene</Ciudad>
+    <CodigoPostal>97403</CodigoPostal>
+    <Telefono>(503) 555-7555</Telefono>
+  </Persona>
+  <Persona PersonaID="GROSR">
+    <Nombre>Manuel Pereira</Nombre>
+    <Direccion>5ª Ave. Los Palos Grandes</Direccion>
+    <Ciudad>Caracas</Ciudad>
+    <CodigoPostal>1081</CodigoPostal>
+    <Telefono>(2) 283-2951</Telefono>
+  </Persona>
+  <Persona PersonaID="HANAR">
+    <Nombre>Mario Pontes</Nombre>
+    <Direccion>Rua do Paço, 67</Direccion>
+    <Ciudad>Rio de Janeiro</Ciudad>
+    <CodigoPostal>05454-876</CodigoPostal>
+    <Telefono>(21) 555-0091</Telefono>
+  </Persona>
+  <Persona PersonaID="HILAA">
+    <Nombre>Carlos Hernández</Nombre>
+    <Direccion>Carrera 22 con Ave. Carlos Soublette #8-35</Direccion>
+    <Ciudad>San Cristóbal</Ciudad>
+    <CodigoPostal>5022</CodigoPostal>
+    <Telefono>(5) 555-1340</Telefono>
+  </Persona>
+  <Persona PersonaID="HUNGC">
+    <Nombre>Yoshi Latimer</Nombre>
+    <Direccion>City Center Plaza 516 Main St.</Direccion>
+    <Ciudad>Elgin</Ciudad>
+    <CodigoPostal>97827</CodigoPostal>
+    <Telefono>(503) 555-6874</Telefono>
+  </Persona>
+  <Persona PersonaID="HUNGO">
+    <Nombre>Patricia McKenna</Nombre>
+    <Direccion>8 Johnstown Road</Direccion>
+    <Ciudad>Cork</Ciudad>
+    <Telefono>2967 542</Telefono>
+  </Persona>
+  <Persona PersonaID="ISLAT">
+    <Nombre>Helen Bennett</Nombre>
+    <Direccion>Garden House Crowther Way</Direccion>
+    <Ciudad>Cowes</Ciudad>
+    <CodigoPostal>PO31 7PJ</CodigoPostal>
+    <Telefono>(198) 555-8888</Telefono>
+  </Persona>
+  <Persona PersonaID="KOENE">
+    <Nombre>Philip Cramer</Nombre>
+    <Direccion>Maubelstr. 90</Direccion>
+    <Ciudad>Brandenburg</Ciudad>
+    <CodigoPostal>14776</CodigoPostal>
+    <Telefono>0555-09876</Telefono>
+  </Persona>
+  <Persona PersonaID="LACOR">
+    <Nombre>Daniel Tonini</Nombre>
+    <Direccion>67, avenue de l'Europe</Direccion>
+    <Ciudad>Versailles</Ciudad>
+    <CodigoPostal>78000</CodigoPostal>
+    <Telefono>30.59.84.10</Telefono>
+  </Persona>
+  <Persona PersonaID="LAMAI">
+    <Nombre>Annette Roulet</Nombre>
+    <Direccion>1 rue Alsace-Lorraine</Direccion>
+    <Ciudad>Toulouse</Ciudad>
+    <CodigoPostal>31000</CodigoPostal>
+    <Telefono>61.77.61.10</Telefono>
+  </Persona>
+  <Persona PersonaID="LAUGB">
+    <Nombre>Yoshi Tannamuri</Nombre>
+    <Direccion>1900 Oak St.</Direccion>
+    <Ciudad>Vancouver</Ciudad>
+    <CodigoPostal>V3F 2K1</CodigoPostal>
+    <Telefono>(604) 555-3392</Telefono>
+  </Persona>
+  <Persona PersonaID="LAZYK">
+    <Nombre>John Steel</Nombre>
+    <Direccion>12 Orchestra Terrace</Direccion>
+    <Ciudad>Walla Walla</Ciudad>
+    <CodigoPostal>99362</CodigoPostal>
+    <Telefono>(509) 555-7969</Telefono>
+  </Persona>
+  <Persona PersonaID="LEHMS">
+    <Nombre>Renate Messner</Nombre>
+    <Direccion>Magazinweg 7</Direccion>
+    <Ciudad>Frankfurt a.M.</Ciudad>
+    <CodigoPostal>60528</CodigoPostal>
+    <Telefono>069-0245984</Telefono>
+  </Persona>
+  <Persona PersonaID="LETSS">
+    <Nombre>Jaime Yorres</Nombre>
+    <Direccion>87 Polk St. Suite 5</Direccion>
+    <Ciudad>San Francisco</Ciudad>
+    <CodigoPostal>94117</CodigoPostal>
+    <Telefono>(415) 555-5938</Telefono>
+  </Persona>
+  <Persona PersonaID="LILAS">
+    <Nombre>Carlos González</Nombre>
+    <Direccion>Carrera 52 con Ave. Bolívar #65-98 Llano Largo</Direccion>
+    <Ciudad>Barquisimeto</Ciudad>
+    <CodigoPostal>3508</CodigoPostal>
+    <Telefono>(9) 331-6954</Telefono>
+  </Persona>
+  <Persona PersonaID="LINOD">
+    <Nombre>Felipe Izquierdo</Nombre>
+    <Direccion>Ave. 5 de Mayo Porlamar</Direccion>
+    <Ciudad>I. de Margarita</Ciudad>
+    <CodigoPostal>4980</CodigoPostal>
+    <Telefono>(8) 34-56-12</Telefono>
+  </Persona>
+  <Persona PersonaID="LONEP">
+    <Nombre>Fran Wilson</Nombre>
+    <Direccion>89 Chiaroscuro Rd.</Direccion>
+    <Ciudad>Portland</Ciudad>
+    <CodigoPostal>97219</CodigoPostal>
+    <Telefono>(503) 555-9573</Telefono>
+  </Persona>
+  <Persona PersonaID="MAGAA">
+    <Nombre>Giovanni Rovelli</Nombre>
+    <Direccion>Via Ludovico il Moro 22</Direccion>
+    <Ciudad>Bergamo</Ciudad>
+    <CodigoPostal>24100</CodigoPostal>
+    <Telefono>035-640230</Telefono>
+  </Persona>
+  <Persona PersonaID="MAISD">
+    <Nombre>Catherine Dewey</Nombre>
+    <Direccion>Rue Joseph-Bens 532</Direccion>
+    <Ciudad>Bruxelles</Ciudad>
+    <CodigoPostal>B-1180</CodigoPostal>
+    <Telefono>(02) 201 24 67</Telefono>
+  </Persona>
+  <Persona PersonaID="MEREP">
+    <Nombre>Jean Fresnière</Nombre>
+    <Direccion>43 rue St. Laurent</Direccion>
+    <Ciudad>Montréal</Ciudad>
+    <CodigoPostal>H1J 1C3</CodigoPostal>
+    <Telefono>(514) 555-8054</Telefono>
+  </Persona>
+  <Persona PersonaID="MORGK">
+    <Nombre>Alexander Feuer</Nombre>
+    <Direccion>Heerstr. 22</Direccion>
+    <Ciudad>Leipzig</Ciudad>
+    <CodigoPostal>04179</CodigoPostal>
+    <Telefono>0342-023176</Telefono>
+  </Persona>
+  <Persona PersonaID="NORTS">
+    <Nombre>Simon Crowther</Nombre>
+    <Direccion>South House 300 Queensbridge</Direccion>
+    <Ciudad>London</Ciudad>
+    <CodigoPostal>SW7 1RZ</CodigoPostal>
+    <Telefono>(171) 555-7733</Telefono>
+  </Persona>
+  <Persona PersonaID="OCEAN">
+    <Nombre>Yvonne Moncada</Nombre>
+    <Direccion>Ing. Gustavo Moncada 8585 Piso 20-A</Direccion>
+    <Ciudad>Buenos Aires</Ciudad>
+    <CodigoPostal>1010</CodigoPostal>
+    <Telefono>(1) 135-5333</Telefono>
+  </Persona>
+  <Persona PersonaID="OLDWO">
+    <Nombre>Rene Phillips</Nombre>
+    <Direccion>2743 Bering St.</Direccion>
+    <Ciudad>Anchorage</Ciudad>
+    <CodigoPostal>99508</CodigoPostal>
+    <Telefono>(907) 555-7584</Telefono>
+  </Persona>
+  <Persona PersonaID="OTTIK">
+    <Nombre>Henriette Pfalzheim</Nombre>
+    <Direccion>Mehrheimerstr. 369</Direccion>
+    <Ciudad>Köln</Ciudad>
+    <CodigoPostal>50739</CodigoPostal>
+    <Telefono>0221-0644327</Telefono>
+  </Persona>
+  <Persona PersonaID="PARIS">
+    <Nombre>Marie Bertrand</Nombre>
+    <Direccion>265, boulevard Charonne</Direccion>
+    <Ciudad>Paris</Ciudad>
+    <CodigoPostal>75012</CodigoPostal>
+    <Telefono>(1) 42.34.22.66</Telefono>
+  </Persona>
+  <Persona PersonaID="PERIC">
+    <Nombre>Guillermo Fernández</Nombre>
+    <Direccion>Calle Dr. Jorge Cash 321</Direccion>
+    <Ciudad>México D.F.</Ciudad>
+    <CodigoPostal>05033</CodigoPostal>
+    <Telefono>(5) 552-3745</Telefono>
+  </Persona>
+  <Persona PersonaID="PICCO">
+    <Nombre>Georg Pipps</Nombre>
+    <Direccion>Geislweg 14</Direccion>
+    <Ciudad>Salzburg</Ciudad>
+    <CodigoPostal>5020</CodigoPostal>
+    <Telefono>6562-9722</Telefono>
+  </Persona>
+  <Persona PersonaID="PRINI">
+    <Nombre>Isabel de Castro</Nombre>
+    <Direccion>Estrada da saúde n. 58</Direccion>
+    <Ciudad>Lisboa</Ciudad>
+    <CodigoPostal>1756</CodigoPostal>
+    <Telefono>(1) 356-5634</Telefono>
+  </Persona>
+  <Persona PersonaID="QUEDE">
+    <Nombre>Bernardo Batista</Nombre>
+    <Direccion>Rua da Panificadora, 12</Direccion>
+    <Ciudad>Rio de Janeiro</Ciudad>
+    <CodigoPostal>02389-673</CodigoPostal>
+    <Telefono>(21) 555-4252</Telefono>
+  </Persona>
+  <Persona PersonaID="QUEEN">
+    <Nombre>Lúcia Carvalho</Nombre>
+    <Direccion>Alameda dos Canàrios, 891</Direccion>
+    <Ciudad>Sao Paulo</Ciudad>
+    <CodigoPostal>05487-020</CodigoPostal>
+    <Telefono>(11) 555-1189</Telefono>
+  </Persona>
+  <Persona PersonaID="QUICK">
+    <Nombre>Horst Kloss</Nombre>
+    <Direccion>Taucherstraße 10</Direccion>
+    <Ciudad>Cunewalde</Ciudad>
+    <CodigoPostal>01307</CodigoPostal>
+    <Telefono>0372-035188</Telefono>
+  </Persona>
+  <Persona PersonaID="RANCH">
+    <Nombre>Sergio Gutiérrez</Nombre>
+    <Direccion>Av. del Libertador 900</Direccion>
+    <Ciudad>Buenos Aires</Ciudad>
+    <CodigoPostal>1010</CodigoPostal>
+    <Telefono>(1) 123-5555</Telefono>
+  </Persona>
+  <Persona PersonaID="RATTC">
+    <Nombre>Paula Wilson</Nombre>
+    <Direccion>2817 Milton Dr.</Direccion>
+    <Ciudad>Albuquerque</Ciudad>
+    <CodigoPostal>87110</CodigoPostal>
+    <Telefono>(505) 555-5939</Telefono>
+  </Persona>
+  <Persona PersonaID="REGGC">
+    <Nombre>Maurizio Moroni</Nombre>
+    <Direccion>Strada Provinciale 124</Direccion>
+    <Ciudad>Reggio Emilia</Ciudad>
+    <CodigoPostal>42100</CodigoPostal>
+    <Telefono>0522-556721</Telefono>
+  </Persona>
+  <Persona PersonaID="RICAR">
+    <Nombre>Janete Limeira</Nombre>
+    <Direccion>Av. Copacabana, 267</Direccion>
+    <Ciudad>Rio de Janeiro</Ciudad>
+    <CodigoPostal>02389-890</CodigoPostal>
+    <Telefono>(21) 555-3412</Telefono>
+  </Persona>
+  <Persona PersonaID="RICSU">
+    <Nombre>Michael Holz</Nombre>
+    <Direccion>Grenzacherweg 237</Direccion>
+    <Ciudad>Genève</Ciudad>
+    <CodigoPostal>1203</CodigoPostal>
+    <Telefono>0897-034214</Telefono>
+  </Persona>
+  <Persona PersonaID="ROMEY">
+    <Nombre>Alejandra Camino</Nombre>
+    <Direccion>Gran Vía, 1</Direccion>
+    <Ciudad>Madrid</Ciudad>
+    <CodigoPostal>28001</CodigoPostal>
+    <Telefono>(91) 745 6200</Telefono>
+  </Persona>
+  <Persona PersonaID="SANTG">
+    <Nombre>Jonas Bergulfsen</Nombre>
+    <Direccion>Erling Skakkes gate 78</Direccion>
+    <Ciudad>Stavern</Ciudad>
+    <CodigoPostal>4110</CodigoPostal>
+    <Telefono>07-98 92 35</Telefono>
+  </Persona>
+  <Persona PersonaID="SAVEA">
+    <Nombre>Jose Pavarotti</Nombre>
+    <Direccion>187 Suffolk Ln.</Direccion>
+    <Ciudad>Boise</Ciudad>
+    <CodigoPostal>83720</CodigoPostal>
+    <Telefono>(208) 555-8097</Telefono>
+  </Persona>
+  <Persona PersonaID="SEVES">
+    <Nombre>Hari Kumar</Nombre>
+    <Direccion>90 Wadhurst Rd.</Direccion>
+    <Ciudad>London</Ciudad>
+    <CodigoPostal>OX15 4NB</CodigoPostal>
+    <Telefono>(171) 555-1717</Telefono>
+  </Persona>
+  <Persona PersonaID="SIMOB">
+    <Nombre>Jytte Petersen</Nombre>
+    <Direccion>Vinbæltet 34</Direccion>
+    <Ciudad>Kobenhavn</Ciudad>
+    <CodigoPostal>1734</CodigoPostal>
+    <Telefono>31 12 34 56</Telefono>
+  </Persona>
+  <Persona PersonaID="SPECD">
+    <Nombre>Dominique Perrier</Nombre>
+    <Direccion>25, rue Lauriston</Direccion>
+    <Ciudad>Paris</Ciudad>
+    <CodigoPostal>75016</CodigoPostal>
+    <Telefono>(1) 47.55.60.10</Telefono>
+  </Persona>
+  <Persona PersonaID="SPLIR">
+    <Nombre>Art Braunschweiger</Nombre>
+    <Direccion>P.O. Box 555</Direccion>
+    <Ciudad>Lander</Ciudad>
+    <CodigoPostal>82520</CodigoPostal>
+    <Telefono>(307) 555-4680</Telefono>
+  </Persona>
+  <Persona PersonaID="SUPRD">
+    <Nombre>Pascale Cartrain</Nombre>
+    <Direccion>Boulevard Tirou, 255</Direccion>
+    <Ciudad>Charleroi</Ciudad>
+    <CodigoPostal>B-6000</CodigoPostal>
+    <Telefono>(071) 23 67 22 20</Telefono>
+  </Persona>
+  <Persona PersonaID="THEBI">
+    <Nombre>Liz Nixon</Nombre>
+    <Direccion>89 Jefferson Way Suite 2</Direccion>
+    <Ciudad>Portland</Ciudad>
+    <CodigoPostal>97201</CodigoPostal>
+    <Telefono>(503) 555-3612</Telefono>
+  </Persona>
+  <Persona PersonaID="THECR">
+    <Nombre>Liu Wong</Nombre>
+    <Direccion>55 Grizzly Peak Rd.</Direccion>
+    <Ciudad>Butte</Ciudad>
+    <CodigoPostal>59801</CodigoPostal>
+    <Telefono>(406) 555-5834</Telefono>
+  </Persona>
+  <Persona PersonaID="TOMSP">
+    <Nombre>Karin Josephs</Nombre>
+    <Direccion>Luisenstr. 48</Direccion>
+    <Ciudad>Münster</Ciudad>
+    <CodigoPostal>44087</CodigoPostal>
+    <Telefono>0251-031259</Telefono>
+  </Persona>
+  <Persona PersonaID="TORTU">
+    <Nombre>Miguel Angel Paolino</Nombre>
+    <Direccion>Avda. Azteca 123</Direccion>
+    <Ciudad>México D.F.</Ciudad>
+    <CodigoPostal>05033</CodigoPostal>
+    <Telefono>(5) 555-2933</Telefono>
+  </Persona>
+  <Persona PersonaID="TRADH">
+    <Nombre>Anabela Domingues</Nombre>
+    <Direccion>Av. Inês de Castro, 414</Direccion>
+    <Ciudad>Sao Paulo</Ciudad>
+    <CodigoPostal>05634-030</CodigoPostal>
+    <Telefono>(11) 555-2167</Telefono>
+  </Persona>
+  <Persona PersonaID="TRAIH">
+    <Nombre>Helvetius Nagy</Nombre>
+    <Direccion>722 DaVinci Blvd.</Direccion>
+    <Ciudad>Kirkland</Ciudad>
+    <CodigoPostal>98034</CodigoPostal>
+    <Telefono>(206) 555-8257</Telefono>
+  </Persona>
+  <Persona PersonaID="VAFFE">
+    <Nombre>Palle Ibsen</Nombre>
+    <Direccion>Smagsloget 45</Direccion>
+    <Ciudad>Århus</Ciudad>
+    <CodigoPostal>8200</CodigoPostal>
+    <Telefono>86 21 32 43</Telefono>
+  </Persona>
+  <Persona PersonaID="VICTE">
+    <Nombre>Mary Saveley</Nombre>
+    <Direccion>2, rue du Commerce</Direccion>
+    <Ciudad>Lyon</Ciudad>
+    <CodigoPostal>69004</CodigoPostal>
+    <Telefono>78.32.54.86</Telefono>
+  </Persona>
+  <Persona PersonaID="VINET">
+    <Nombre>Paul Henriot</Nombre>
+    <Direccion>59 rue de l'Abbaye</Direccion>
+    <Ciudad>Reims</Ciudad>
+    <CodigoPostal>51100</CodigoPostal>
+    <Telefono>26.47.15.10</Telefono>
+  </Persona>
+  <Persona PersonaID="WANDK">
+    <Nombre>Rita Müller</Nombre>
+    <Direccion>Adenauerallee 900</Direccion>
+    <Ciudad>Stuttgart</Ciudad>
+    <CodigoPostal>70563</CodigoPostal>
+    <Telefono>0711-020361</Telefono>
+  </Persona>
+  <Persona PersonaID="WARTH">
+    <Nombre>Pirkko Koskitalo</Nombre>
+    <Direccion>Torikatu 38</Direccion>
+    <Ciudad>Oulu</Ciudad>
+    <CodigoPostal>90110</CodigoPostal>
+    <Telefono>981-443655</Telefono>
+  </Persona>
+  <Persona PersonaID="WELLI">
+    <Nombre>Paula Parente</Nombre>
+    <Direccion>Rua do Mercado, 12</Direccion>
+    <Ciudad>Resende</Ciudad>
+    <CodigoPostal>08737-363</CodigoPostal>
+    <Telefono>(14) 555-8122</Telefono>
+  </Persona>
+  <Persona PersonaID="WHITC">
+    <Nombre>Karl Jablonski</Nombre>
+    <Direccion>305 - 14th Ave. S. Suite 3B</Direccion>
+    <Ciudad>Seattle</Ciudad>
+    <CodigoPostal>98128</CodigoPostal>
+    <Telefono>(206) 555-4112</Telefono>
+  </Persona>
+  <Persona PersonaID="WILMK">
+    <Nombre>Matti Karttunen</Nombre>
+    <Direccion>Keskuskatu 45</Direccion>
+    <Ciudad>Helsinki</Ciudad>
+    <CodigoPostal>21240</CodigoPostal>
+    <Telefono>90-224 8858</Telefono>
+  </Persona>
+  <Persona PersonaID="WOLZA">
+    <Nombre>Zbyszek Piestrzeniewicz</Nombre>
+    <Direccion>ul. Filtrowa 68</Direccion>
+    <Ciudad>Warszawa</Ciudad>
+    <CodigoPostal>01-012</CodigoPostal>
+    <Telefono>(26) 642-7012</Telefono>
+  </Persona>
+</Catalog>

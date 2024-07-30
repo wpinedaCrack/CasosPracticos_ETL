@@ -1,0 +1,9 @@
+C:\DiscoD\udemy\CISC_CASOS_PRACTICOS_OK\CargaIncrementalMensual
+
+
+services.Configure<FormOptions>(options =>
+		{
+			options.ValueCountLimit = int.MaxValue; // Establece el límite de la cantidad de valores (archivos) en el formulario al máximo.
+			options.ValueLengthLimit = int.MaxValue; // Establece el límite de tamaño de valor (archivo) al máximo.
+			options.MultipartBodyLengthLimit = 104857600;// long.MaxValue; // Establece el límite de tamaño total del cuerpo multipart al máximo.
+		});
